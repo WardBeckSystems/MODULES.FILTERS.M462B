@@ -29,7 +29,7 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Words (OCR):** 51 in 44 lines: MF · MF 2 · HF · Boost/ · Boostl · Boost/ · Boost/ · EQ · FREQ · FREQ · FREQ · FREQ
 - **Title block:** (146, 11)–(375, 61) mm: ISSJMOD [CKD · USEDON · MATL · 3536 RKM · WBS WAAD-BECK · DRN: GEB · M462 B · DATE Oct 76 · FINISH · CKD Pil · EQUALIZER MODULE · FUNCTIONAL · SCALE · 462 - 01-00 3
 
-Every curve, box, word and wire group: [1976 - M462B - Equalizer Module Functional p1 (traced).json](../SCHEMATICS/1976%20-%20M462B%20-%20Equalizer%20Module%20Functional%20p1%20(traced).json) (the CAD file: `1976 - M462B - Equalizer Module Functional p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M462B - Equalizer Module Functional p1 (traced).json](../SCHEMATICS/1976%20-%20M462B%20-%20Equalizer%20Module%20Functional%20p1%20%28traced%29.json) (the CAD file: `1976 - M462B - Equalizer Module Functional p1 (traced).dxf`).
 
 ## Full text
 

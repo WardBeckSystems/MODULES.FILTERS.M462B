@@ -11,6 +11,18 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Size:** 128,757 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 300 mm, 954 × 662 px traced (0.453 mm/px)
+- **Ink extent:** 3–428 mm across, 10–298 mm up
+- **Outlines:** line 441 rings, 3,262 straight (12,227 mm) / 934 curved (2,016 mm); text 736 rings, 5,031 straight (9,351 mm) / 1,738 curved (3,719 mm)
+- **Circles and arcs:** 11 circles, 0 arcs; largest r 5.2 @ (55.8, 277.8), r 5.2 @ (55.0, 29.5), r 5.1 @ (364.4, 155.1), r 5.1 @ (233.1, 77.5)
+- **Closed boxes:** 20; named: 26 MzoIN; 25 LM2cin; 24 LMZoin; 2i MZoin; 23 MzoIN; 22 LMzoin; LMzoiN 27; C2oiN; LMZoin 21o; LM2oin; LMZoiN 2i2; LMZOIN
+- **Dots (junctions):** 1
+- **Words (OCR):** 121 in 98 lines: E3 · E5 · E2 · -R24 · Rzol · RIt · 14 · 62/6 ~c8 22p · F7 J · ~2412P =c21 C2o!ep · C2 LBp · R25 620
+
+Every curve, box, word and wire group: [1974 - M462B - P39 - EQ Filter Layout (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20P39%20-%20EQ%20Filter%20Layout%20%28traced%29.json) (the CAD file: `1974 - M462B - P39 - EQ Filter Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

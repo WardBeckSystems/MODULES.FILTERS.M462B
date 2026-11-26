@@ -23,7 +23,7 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Words (OCR):** 182 in 166 lines: High FREQUENCY NiD FREQUENCKN' · MID FREQUENCY · LoN · FREQUENCY · 800112-12.8khz · OOHz · Tip29b · CRI · 25v+ · 5.6 · R72 · PN3569
 - **Wiring (first pass):** 227 connected wire groups from 1,274 runs; labelled ends: 250 mm → Filter AMPLIFIER; 248 mm → WBS; 189 mm → C43, 6.8/6; 112 mm → Ris, LF cutiboOST, R47, Isk; 112 mm → c42, 6.6/6
 
-Every curve, box, word and wire group: [1974 - M462B - 462-02-003 - EQUAI IZER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20462-02-003%20-%20EQUAI%20IZER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1974 - M462B - 462-02-003 - EQUAI IZER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - 462-02-003 - EQUAI IZER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20462-02-003%20-%20EQUAI%20IZER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1974 - M462B - 462-02-003 - EQUAI IZER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

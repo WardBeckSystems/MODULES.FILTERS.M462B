@@ -15,6 +15,19 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Size:** 149,373 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 373 mm, 900 × 778 px traced (0.480 mm/px)
+- **Ink extent:** 0–431 mm across, 0–373 mm up
+- **Outlines:** line 1,387 rings, 8,315 straight (20,890 mm) / 2,148 curved (4,577 mm); text 454 rings, 2,354 straight (3,698 mm) / 852 curved (1,884 mm); tb 43 rings, 239 straight (460 mm) / 66 curved (140 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 8.0 @ (247.0, 144.4), r 5.9 @ (269.3, 111.5), r 3.2 @ (300.6, 331.4)
+- **Closed boxes:** 66 (10 in the title block); named: Z1; 28; WAAD-BeCK WBS
+- **Dots (junctions):** 1
+- **Words (OCR):** 82 in 64 lines: Oies · 232 · R67 · RSB · R55 · 164 · 222-F8 · R59 #28 · 234 · 278 c?5 · 3iei · (Not UEEC}
+- **Title block:** (191, 27)–(391, 54) mm: IMOD IcKd · WBS · WAAD-BeCK · M4626
+
+Every curve, box, word and wire group: [M462B - P34 - Component Layout (traced).json](../SCHEMATICS/M462B%20-%20P34%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `M462B - P34 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

@@ -23,7 +23,7 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Title block:** (88, 8)–(370, 70) mm: IsS MOD ICKD · USED ON · MATL. · WBS WARD-BeCK BysTEMs LTD · 3536 IPKM · DRN. GE B · M462 B · FINISH · DATE oct · E QUALIZER MODULE · CKD eul · SCALE · FUnCTIoNAL DIAG RA M · TOLS · 462 - 01-003
 - **Wiring (first pass):** 19 connected wire groups from 105 runs; labelled ends: 51 mm → Boost/, FREQ; 51 mm → Boost/, FREQ; 48 mm → Boosti, FREQ; 40 mm → FREQ, Boost/; 29 mm → LTD, BysTEMs
 
-Every curve, box, word and wire group: [1974 - M462B - 462-01-003 - BOOST- CUT BOOST- CUT BOOSTI CUT BOOST- CUT (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20462-01-003%20-%20BOOST-%20CUT%20BOOST-%20CUT%20BOOSTI%20CUT%20BOOST-%20CUT%20(traced).json) (the CAD file: `1974 - M462B - 462-01-003 - BOOST- CUT BOOST- CUT BOOSTI CUT BOOST- CUT (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - 462-01-003 - BOOST- CUT BOOST- CUT BOOSTI CUT BOOST- CUT (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20462-01-003%20-%20BOOST-%20CUT%20BOOST-%20CUT%20BOOSTI%20CUT%20BOOST-%20CUT%20%28traced%29.json) (the CAD file: `1974 - M462B - 462-01-003 - BOOST- CUT BOOST- CUT BOOSTI CUT BOOST- CUT (traced).dxf`).
 
 ## Full text
 

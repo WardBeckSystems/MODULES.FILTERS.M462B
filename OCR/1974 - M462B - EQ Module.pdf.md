@@ -22,7 +22,7 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Closed boxes:** 2; named: 'NBS
 - **Words (OCR):** 16 in 14 lines: 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · H1t628 · EQUAliZER MODUlE · 'NBS ps · BS · tp
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p1 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p1%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p1 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p1%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p1 (traced).jso
 - **Dots (junctions):** 1
 - **Words (OCR):** 133 in 63 lines: TA8LE OF CONTENTS · 1446 28 EQUALIZER MODU LE · SECTI ON · PAG · Wa rtn ty · Te chnical Datil. · 1-1 · Circu · Desc iptio · 2-3 · Fre uen cy Re pcn · to 3-3
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p2 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p2%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p2 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p2%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -44,7 +44,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p2 (traced).jso
 - **Words (OCR):** 343 in 117 lines: WA RRANT · All Wa · Be ck Systl!.s lt · products re lla · nted · ga in st · def ec tive · nd llo rk ~an · or · period of on · te ia · year from date of Sh ipme
 - **Title block:** (76, 100)–(169, 357) mm: nd llo rk ~an · te ia · year from date of Sh ipme · Sys te ms wi · re pai · na rg · said product · upon factory ns pe ti on · pro · wa rrant pl:!r lod pr vided th · Or ig in · ia nue be · been ta mper
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p3 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p3%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p3 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p3%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p3 (traced).jso
 - **Outlines:** line 33 rings, 665 straight (3,543 mm) / 106 curved (151 mm); text 959 rings, 8,890 straight (10,643 mm) / 2,365 curved (2,964 mm)
 - **Words (OCR):** 174 in 63 lines: TECH NIC AL DATA · M4 62B EQUALIZER MODULE · ae · Untt · Frequ ency Response: · 25 dB fr om 20 Hz · 20 kHz (al · qualiz in co ntr ols In · FLA posi tio · Noi se: · (20 · Hz
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p4 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p4%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p4 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p4%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -62,7 +62,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p4 (traced).jso
 - **Outlines:** line 179 rings, 2,493 straight (5,578 mm) / 654 curved (843 mm); text 2,005 rings, 18,476 straight (21,378 mm) / 5,033 curved (6,328 mm)
 - **Words (OCR):** 401 in 104 lines: CI RCU · DESCRIPTION · M4628 EQUA LI ER MODULE · nput · Th~ · npu s1gnal ~nt~rs · the K(628 modu le vl p1ns · and · of · the edge conne to · 21 and 12 · he
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p5 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p5%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p5 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p5%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -71,7 +71,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p5 (traced).jso
 - **Outlines:** line 46 rings, 757 straight (3,114 mm) / 108 curved (168 mm); text 2,262 rings, 21,565 straight (25,190 mm) / 6,143 curved (7,768 mm)
 - **Words (OCR):** 298 in 172 lines: CIRCUII_DESCRIPIION · M462B_EQUALIZER_MODULE · HIGH FREQUENCY equa]ization continuously · 15 · adjustable from · 1 .6 to 25 · kHz and i5 · controlled by · RI/R2 · R13 determines the · amount · 0 f
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p6 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p6%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p6 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p6%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p6 (traced).jso
 - **Outlines:** line 116 rings, 1,753 straight (4,785 mm) / 383 curved (516 mm); text 871 rings, 8,013 straight (9,202 mm) / 2,350 curved (2,970 mm)
 - **Words (OCR):** 176 in 41 lines: CIRCU · DESC RIPTION · H4 628 EQUAL ZER HOD UlE · Thus wit SW] depress ed the eq ua iz ed 1gna is fe · he · outpu a.pl 1e · 109A. In ddi tiOn as SW3 · dep ressed · the LED ndit to is ac tivated. · Trans ent · ee ope ratio of the inse tio pushbutt on · ensured by emp oy in
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p7 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p7%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p7 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p7%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p7 (traced).jso
 - **Dots (junctions):** 1
 - **Words (OCR):** 40 in 29 lines: FREQUENCY · RESPONSE_CHARACTERLSTICS · M462B · EQUALIZER MODULE · OdB · LOW_FREQUENCY section · Mode : · SHELVING · CUT/Boost: · +15 dB · FREQUENCY · 25
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p8 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p8%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p8 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p8%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p8 (traced).jso
 - **Dots (junctions):** 2
 - **Words (OCR):** 57 in 24 lines: FRE QUENCY RE SP ON SE CHARA CTER ISTICS · "46 2B EOUALl 2ER KODULE · FRE QU EN CY section KF2 · BOOST · to +15 dB · !-rt-:T · dB ste ps. · CUT · 15 ee · 10 · FREQUE NCY: · 1.6 kil
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p9 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p9%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p9 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p9%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p9 (traced).jso
 - **Closed boxes:** 58; named: 1-1 II Yrl LX :rlt 1'.1; ..f-l+fl+ ps BS
 - **Words (OCR):** 35 in 20 lines: REQUENCY RESPONSE CHARACTERISTICS · M4 62B EqUALIZE MODUL · II Yrl LX · 1-1 · :rlt · 1'.1 · HIGH FREQU ENC se · on · SHE LVI NG · Mode: · CUT/ BOOST: t1 · dB.
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p10 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p10%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p10 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p10%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p10 (traced).js
 - **Dots (junctions):** 2
 - **Words (OCR):** 212 in 122 lines: PAR TS LI ST · "4628 EQUALIZE MOOUL · PART · DE SCRIPTION · "FG PART NUMBER · 01 · ae ec · lJ uF · ee · n90D33 6M010AS · 02 · 03
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p11 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p11%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p11 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p11%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -131,7 +131,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p11 (traced).js
 - **Outlines:** line 193 rings, 2,659 straight (5,983 mm) / 652 curved (855 mm); text 522 rings, 4,665 straight (5,263 mm) / 1,260 curved (1,567 mm)
 - **Words (OCR):** 108 in 72 lines: PART LI ST · M46 2B EQ UAL ZER MODULE · PA RT · DESC RI PTIO · MFG · MFG PART NUMBE · C36 · Capaci to · pF · Phil ips · 2222 ·63 8-10 59 · CJ)
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p12 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p12%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p12 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p12%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p12 (traced).js
 - **Outlines:** line 93 rings, 1,682 straight (4,842 mm) / 385 curved (522 mm); text 512 rings, 4,912 straight (5,506 mm) / 1,333 curved (1,634 mm)
 - **Words (OCR):** 82 in 63 lines: PAR TS LIST · M4 62B EQUALIZER MODULE · PART · OESCR 1PTION · MFG · MFG PART NU MBER · R1O · Potentiome ter · Al · WOS 10-007 · Pot entiome er · WBS
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p13 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p13%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p13 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p13%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p13 (traced).js
 - **Dots (junctions):** 3
 - **Words (OCR):** 62 in 49 lines: PARTS LIST · H462B EQUALI ZER MODULE · PART · DESCRIP TION · KFG · HFG PART HUHBER · sx · Res is or · Phi ip · 10K · sao · R41
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p14 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p14%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p14 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p14%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p14 (traced).js
 - **Outlines:** line 59 rings, 1,024 straight (4,220 mm) / 253 curved (362 mm); text 376 rings, 3,294 straight (3,928 mm) / 868 curved (1,115 mm)
 - **Words (OCR):** 80 in 35 lines: PARTS LI ST · M462B EQ UAL IZER MOD UL · PAR · DE SCR IPTI ON · MFG · PART NUMB ER · Swi · WO · OO2 · SWl · Sch ado · SW2
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p15 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p15%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p15 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p15%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p15 (traced).js
 - **Dots (junctions):** 1
 - **Words (OCR):** 130 in 80 lines: PA RTS LIST · M4628 EOUA LI ZER MODUL · CONT ROL KNOBS, CA PS ANO SUT ONS · USED · ON · DESCR IPTION · MFG PAR · NU....BE · Knob · il t;kJ · 021 352 · Knob
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p16 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p16%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p16 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p16%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p16 (traced).js
 - **Outlines:** line 19 rings, 611 straight (3,044 mm) / 87 curved (148 mm); text 76 rings, 542 straight (600 mm) / 110 curved (145 mm)
 - **Words (OCR):** 8 in 5 lines: 109 AIoiIPLl ER SERIES · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p17 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p17%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p17 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p17%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -190,7 +190,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p17 (traced).js
 - **Dots (junctions):** 4
 - **Words (OCR):** 251 in 137 lines: DESCR IPTION · 09 · PllF ER · SERIES · 8-109 · ri · IlrT'l) llf iers arll · ti li zed · In tern al omp oo · ith · va lnu · WBS
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p18 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p18%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p18 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p18%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p18 (traced).js
 - **Dots (junctions):** 1
 - **Words (OCR):** 312 in 178 lines: DESCR TI ON · 109 AMPL IF IER SER iE · Oul · L/lve · 1-30 Bm m""imu · Requ remc · 21 · oll · 18 mA cvtesceo Curren · mA III +30 lJm OU UI · mbie nt Te mp · eg
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p19 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p19%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p19 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p19%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -210,7 +210,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p19 (traced).js
 - **Outlines:** line 54 rings, 1,293 straight (3,542 mm) / 197 curved (296 mm); text 222 rings, 1,816 straight (2,046 mm) / 478 curved (771 mm)
 - **Words (OCR):** 48 in 18 lines: DES CR IPTION · 8-109 AMPLIF IER SE RIES · nve · ng am ifier wit · xt nal · stra pped to E6. · Th output · al mode · of he · 8-109 seri es is · \ve ly · bal anc ed nd
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p20 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p20%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p20 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p20%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -220,7 +220,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p20 (traced).js
 - **Closed boxes:** 3
 - **Words (OCR):** 119 in 77 lines: PAR TS · IS · -109 AMP LI FI ER SERIES · -109 · PART · DEseR IPT ION · MFG PART NUMBER · Ce.p e.cilo · aa uF/10 · K",m"l · 900 36 M0 AS · ca
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p21 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p21%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p21 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p21%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -229,7 +229,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p21 (traced).js
 - **Outlines:** line 218 rings, 2,432 straight (5,483 mm) / 583 curved (759 mm); text 480 rings, 4,180 straight (4,507 mm) / 1,249 curved (1,527 mm)
 - **Words (OCR):** 77 in 53 lines: PARTS LI ST · 109 AMPLIFIER SER ES · -109 · rr · OESCR IP TION · FG · MFGPAAT NUM8ER · Re i,OIor · 4W · Pi"l tl iJ · OS• · 390
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p22 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p22%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p22 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p22%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -240,7 +240,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p22 (traced).js
 - **Dots (junctions):** 1
 - **Words (OCR):** 99 in 62 lines: PAR · iS · 8_109 AM PLI IER SERIES · 109'" · pa rt · per · 10 · cp as nOIe-<:! elow · PAR' · OESC RI TIO · FG · MFG PART NUMBER
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p23 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p23%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p23 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p23%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -252,7 +252,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p23 (traced).js
 - **Words (OCR):** 106 in 64 lines: PAR TS LI ST · 109 AMP IF ER SER IES · 10 90 · Al · ar- · <:IS · per · 109 · cept as no ted · ow · PAR · DESCRIPTION
 - **Wiring (first pass):** 16 connected wire groups from 53 runs; labelled ends: 71 mm → ESCRIP, TIO, PA, ce; 59 mm → AMP, IES; 53 mm → MFG, 2222-638-09476; 49 mm → MFG, 2222-638-09476, NUMBER; 48 mm → _09478, NUMBE, 222
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p24 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p24%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p24 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p24%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -262,7 +262,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p24 (traced).js
 - **Dots (junctions):** 1
 - **Words (OCR):** 64 in 32 lines: DARTS · IST · 8-109 AM PL · ER SERIES · 8_I09G · rt · er 8-10 · 88 no · elo · PAR · DESCI PTI QN · MF
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p25 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p25%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p25 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p25%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -271,7 +271,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p25 (traced).js
 - **Outlines:** line 12 rings, 428 straight (2,844 mm) / 60 curved (95.2 mm); text 92 rings, 707 straight (808 mm) / 119 curved (149 mm)
 - **Words (OCR):** 10 in 6 lines: 4-1 12 EQUALIZER ILTER AMPLIFIER · ps · BS · tp · ht · 112
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p26 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p26%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p26 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p26%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -281,7 +281,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p26 (traced).js
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (125.1, 117.3)
 - **Words (OCR):** 365 in 82 lines: CI RCUI DESCRIPT ON · 4-112 EQUALIZER FILTE AMPLIFIER · Th · 11 eqve tt aer fil er · pl1 f1t Is · prin te · irc ul · board · ti i~e as an nt nal omponen in WBS 4628 · equa ze 1I0d ules. · The 4·1 12 · co~
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p27 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p27%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p27 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p27%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -291,7 +291,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p27 (traced).js
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (81.3, 149.1), r 2.1 @ (203.8, 302.7)
 - **Words (OCR):** 290 in 149 lines: PARTS It · SI · 11 EQ UA LI ZER FI LTER AMP LIFI ER · PART · PESCRIPT ION · HFG · HFG PART NLt18ER · CI · Capac · or · uf · T390B68S/'l006AS
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p28 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p28%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p28 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p28%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -301,7 +301,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p28 (traced).js
 - **Dots (junctions):** 2
 - **Words (OCR):** 101 in 78 lines: PAR TS · ST · 112 EQUA IZER · FI LTER AMPLIF IER · PAR · DESC RIPTION · MFG · MFG PART NUMBER · c45 · CapacItor · 68 uF/ · Keme
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p29 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p29%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p29 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p29%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p29 (traced).js
 - **Outlines:** line 94 rings, 1,865 straight (4,955 mm) / 397 curved (538 mm); text 562 rings, 5,242 straight (6,131 mm) / 1,442 curved (1,823 mm)
 - **Words (OCR):** 103 in 63 lines: PARTS · ST · 12 EQUAL ZER ILTER · A~PLIFI ER · PARI · DESCRI PTI ON · MFG · MEG P"E.R,T NUMBER · l:-w 5%6K2 · R3J · Resi stor · Phllip
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p30 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p30%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p30 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p30%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -323,7 +323,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p30 (traced).js
 - **Words (OCR):** 472 in 246 lines: HICH FUQUENCY sect CWl · FREQUE NCY ADJUSTMENT · on tro IU · Cont inuous ly · rl .ble from 1.6 · 2S kHz · In · PEA kiNG · eeee · frequency · wa · ca ibrat ion
 - **Title block:** (222, 0)–(330, 47) mm: IISSlI: lo.t.T£ · [\NSS] WARD-BECK SYSTEMS · DftN · tp · M4628 · ht EQUALIZER MODULE · CIUl · \ii'.u. · FRONT PANEL · SCALE · AI 62-04 007 · ISSUE
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p31 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p31%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p31 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p31%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -336,7 +336,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p31 (traced).js
 - **Words (OCR):** 59 in 45 lines: BOOS TI · RE · BOO STI · REO · BOOST · FREQ · OO · nne · cu · cur · ur · cu
 - **Title block:** (245, 22)–(416, 66) mm: ps · WA RD BeCK BS LTD · SYSTEMS · DRN · CE · M4 · DATE · CT · LI ZE · ODU · ceo. ''''~U.l.- · tp
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p32 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p32%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p32 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p32%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -350,7 +350,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p32 (traced).js
 - **Words (OCR):** 135 in 112 lines: LOW FR£.QUENCY · 2Sf/r400Jh · RIO · RU · 10 · IEIO · IE8 · IE9 · REG~21V' · NOTE: · Ie" LM2.01, · ALL
 - **Wiring (first pass):** 232 connected wire groups from 1,274 runs; labelled ends: 250 mm → 10, IE9; 112 mm → CUT/BOOST; 110 mm → LTD, MAT, (ITIIriIJ, tp; 106 mm → REG~21V'; 106 mm → 5k, 15k, R30
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p33 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p33%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p33 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p33%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -362,7 +362,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p33 (traced).js
 - **Words (OCR):** 266 in 183 lines: O1es · IE8 · iE2 · JLlRI ( 2.816 · P75 +*7 · 68/6937 + · c32 · <29_+68/6 C2+6-ele · 3164 · 73| R67 · RGIk R587sk R5S- · 757
 - **Title block:** (204, 0)–(392, 50) mm: IsS MOo CKD · USED ON · MaTtL · 3868 TU · WBS WAAO-BeCK · 519] MaB · 3536 FM · DRN · em · DATE SEC 74 · M4628 · 1B59BM · FINISA · EQUALIZER · J69d · CKD · [epl · COMPONENT LAYOUT · SCALE · 460 · TOLS 
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p34 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p34%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p34 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p34%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p34 (traced).dxf`).
 
 ### Page 35
 
@@ -373,7 +373,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p34 (traced).js
 - **Closed boxes:** 67; named: ID; 10; 11; lJ; 14; 15; 17; ps; 19; 20; ZI; ci
 - **Words (OCR):** 35 in 25 lines: III · )/CPUT · III · IKPUT SH IElD · III · ID · se · It · cl · 10 · 11 · lJ
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p35 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p35%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p35 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p35 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p35%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p35 (traced).dxf`).
 
 ### Page 36
 
@@ -386,7 +386,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p35 (traced).js
 - **Words (OCR):** 144 in 120 lines: E3 · 'lJ · I3 · 1·S · .39 · 10 · I7 · K7 · 22 · t;;i' · n.lt:> · El
 - **Title block:** (352, 1)–(432, 34) mm: ISS UE OAf( · RE'lJtSION · (VVE3S] WARD- 8ECK SYSTEMS · tp · ht · OftN. El .'78 · ENG.MRW · CKD. .J(t. · TPU · AMPLI FIER · SCHEMATIC · sc.... GI '09 02 · ISSUE
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p36 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p36%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p36 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p36 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p36%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p36 (traced).dxf`).
 
 ### Page 37
 
@@ -396,7 +396,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p36 (traced).js
 - **Circles and arcs:** 12 circles, 0 arcs; largest r 16.7 @ (43.3, 300.2), r 15.8 @ (139.3, 110.5), r 15.8 @ (43.6, 111.4), r 15.7 @ (138.7, 300.3)
 - **Words (OCR):** 41 in 36 lines: ~3/1O · -cr · "'ill. · -R5 · f8k. · ns -Rl..i.ZQ · -R8 · 4'1., · -CIO- · -cz, · _CIl~"P' · -RI4-.gg
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p37 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p37%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p37 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p37 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p37%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p37 (traced).dxf`).
 
 ### Page 38
 
@@ -407,7 +407,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p37 (traced).js
 - **Closed boxes:** 22; named: tp
 - **Words (OCR):** 63 in 52 lines: "OT · 1-\2.0I · li · Of, · 0l.5 · !of'£C. 'Ltl QT · Il'..a s.E · c.l :::IC · C"ii. · ;:1t · e."3 · "'''40.
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p38 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p38%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p38 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p38 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p38%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p38 (traced).dxf`).
 
 ### Page 39
 
@@ -418,7 +418,7 @@ Every curve, box, word and wire group: [1974 - M462B - EQ Module p38 (traced).js
 - **Closed boxes:** 12; named: 1N; 75 LMZ; 74; 2a IN; z2; ZI IN; 212; IN Z8; ZIO; Lt-A<!O IN ZII; L~201 Z7; LM ZCtN Z9
 - **Words (OCR):** 121 in 95 lines: CD R24 JM · R20 J!j. · CD Rtf · f:'7 · CD · -c24 !EP =c.21- · ~-Cf()..!!'" · -c12 · :.9P -C9 · -ee g:itp · -c2 · fS
 
-Every curve, box, word and wire group: [1974 - M462B - EQ Module p39 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p39%20(traced).json) (the CAD file: `1974 - M462B - EQ Module p39 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - EQ Module p39 (traced).json](../MANUALS/1974%20-%20M462B%20-%20EQ%20Module%20p39%20%28traced%29.json) (the CAD file: `1974 - M462B - EQ Module p39 (traced).dxf`).
 
 ## Full text
 

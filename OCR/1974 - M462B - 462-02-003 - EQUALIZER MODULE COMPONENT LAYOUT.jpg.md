@@ -27,7 +27,7 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Title block:** (203, 4)–(390, 53) mm: ISS IMOD_ CKD · USED ON · MATL_ · Jcceuy · WBS WAAD-BECK BYBTEMB LTD_ · 3193 MB · 3536 · DRN · M4628 · DATE SEC · Z59BI · FIniSh · [Seps · EQUALIZER MODULE · 3698 · CKD · COMPONENT LAYOUT · 468 · SCAL
 - **Wiring (first pass):** 107 connected wire groups from 752 runs; labelled ends: 200 mm → iE2, 6.3/6; 162 mm → COHPONENT, 2E2; 105 mm → ISS IMOD_, Jcceuy; 86 mm → COHPONENT; 72 mm → COHPONENT, SIDE
 
-Every curve, box, word and wire group: [1974 - M462B - 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20462-02-003%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1974 - M462B - 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462B - 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20462-02-003%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1974 - M462B - 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

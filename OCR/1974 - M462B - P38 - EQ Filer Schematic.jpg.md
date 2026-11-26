@@ -11,6 +11,21 @@ Wiki page: [M462B](../../../../PAGES/M462B.md)
 - **Size:** 184,518 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 279 mm, 1648 × 1064 px traced (0.262 mm/px)
+- **Ink extent:** 0–432 mm across, 2–279 mm up
+- **Outlines:** line 836 rings, 7,000 straight (16,074 mm) / 1,385 curved (1,936 mm); text 616 rings, 3,431 straight (3,573 mm) / 884 curved (1,285 mm); tb 142 rings, 737 straight (912 mm) / 158 curved (231 mm)
+- **Centre lines:** 8,738 paths (211 closed); straight 11,336 mm, curved 71.1 mm; horizontal 3,821 mm, vertical 3,459 mm, diagonal 4,056 mm
+- **Circles and arcs:** 5 circles, 18 arcs; largest r 1.1 @ (41.0, 138.6), r 1.1 @ (35.1, 234.1), r 1.1 @ (296.0, 53.4), r 1.0 @ (308.8, 212.6)
+- **Closed boxes:** 24 (1 in the title block); named: WBS WAAD_ LTD; Da; Tol
+- **Dots (junctions):** 1
+- **Words (OCR):** 136 in 128 lines: NOLES: · EREQLENAI · 25k42 · MD FAECUENC · LMZoin · ALL · AND AL · RESISTCRS · CapaciTORS · MicRCFARADS · UNLE SS · OTHERWISE
+- **Title block:** (316, 16)–(385, 155) mm: Lowv · EREGLENG {25 Hz · 23 · R43 · 0k2 · c42 · 415 · 243 · ~2lv · 242 · R43 · 22k · R49 · 4k7 · WBS WAAD_ · Da
+- **Wiring (first pass):** 108 connected wire groups from 690 runs; labelled ends: 175 mm → R23, Gk2, C22, 26; 136 mm → cakc, VALUE, 22; 135 mm → 6k2, VALUE, Rio, 620; 107 mm → R43, 242, 2iv; 106 mm → R27, ~ak, R2b, R223
+
+Every curve, box, word and wire group: [1974 - M462B - P38 - EQ Filer Schematic (traced).json](../SCHEMATICS/1974%20-%20M462B%20-%20P38%20-%20EQ%20Filer%20Schematic%20%28traced%29.json) (the CAD file: `1974 - M462B - P38 - EQ Filer Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 8 words corrected)
