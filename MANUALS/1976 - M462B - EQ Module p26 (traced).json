@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/FILTERS/M462B/MANUALS/1976 - M462B - EQ Module.pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/ef3ac2bb0dffe20e-p26.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1464, 2000],
+  "mm": [316.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "39"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.4, 5.2, 314.9, 426.6],
+ "outlines": {
+  "line": {"rings": 6, "straight": {"n": 382, "mm": 2796.4}, "curved": {"n": 55, "mm": 87.1}},
+  "text": {"rings": 42, "straight": {"n": 459, "mm": 577.6}, "curved": {"n": 88, "mm": 105.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [85.5, 305.5, 154.4, 315.0], "text": "4-112 EQUALIZER"},
+   {"mm": [156.7, 305.5, 229.5, 314.3], "text": "FILTER AMPLIF IER"},
+   {"mm": [148.5, 4.3, 171.2, 12.0], "text": "4-112"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 316 × 432 mm, 1464 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–315 mm across, 5–427 mm up",
+  "- **Outlines:** line 6 rings, 382 straight (2,796 mm) / 55 curved (87.1 mm); text 42 rings, 459 straight (578 mm) / 88 curved (105 mm)",
+  "- **Words (OCR):** 5 in 3 lines: 4-112 EQUALIZER · FILTER AMPLIF IER · 4-112"
+ ]
+}

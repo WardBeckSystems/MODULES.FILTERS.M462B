@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/FILTERS/M462B/MANUALS/1974 - M462B - EQ Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/53e39cd53549831e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1507, 2000],
+  "mm": [325.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "39"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [166.5, 0.0, 324.1, 431.8],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 2075, "mm": 8048.0}, "curved": {"n": 141, "mm": 265.4}},
+  "text": {"rings": 24, "straight": {"n": 545, "mm": 2043.1}, "curved": {"n": 58, "mm": 105.3}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [220.4, 414.5, 238.4, 417.6], "w": 17.9, "h": 3.0, "from": "ring"},
+  {"mm": [220.9, 54.8, 238.6, 58.1], "w": 17.7, "h": 3.2, "from": "ring", "words": ["'NBS"]}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [177.5, 368.5, 272.0, 388.5], "text": "'NBS"},
+   {"mm": [177.9, 327.7, 272.0, 347.6], "text": "'NBS"},
+   {"mm": [177.9, 287.6, 272.5, 307.5], "text": "'NBS"},
+   {"mm": [177.9, 247.2, 272.0, 267.1], "text": "'NBS"},
+   {"mm": [178.3, 207.0, 272.5, 227.0], "text": "'NBS"},
+   {"mm": [178.3, 166.7, 272.2, 186.6], "text": "'NBS"},
+   {"mm": [178.8, 126.1, 272.9, 146.0], "text": "'NBS"},
+   {"mm": [211.2, 99.3, 232.1, 105.8], "text": "H1t628"},
+   {"mm": [191.3, 87.4, 256.1, 95.4], "text": "EQUAliZER MODUlE"},
+   {"mm": [178.8, 45.6, 298.2, 65.5], "text": "'NBS ps"},
+   {"mm": [266.6, 44.5, 287.8, 55.5], "text": "BS"},
+   {"mm": [245.0, 22.7, 263.0, 29.6], "text": "tp"},
+   {"mm": [178.8, 5.2, 272.9, 25.1], "text": "'NBS"},
+   {"mm": [238.1, 15.8, 258.4, 22.7], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 325 × 432 mm, 1507 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 166–324 mm across, 0–432 mm up",
+  "- **Outlines:** line 58 rings, 2,075 straight (8,048 mm) / 141 curved (265 mm); text 24 rings, 545 straight (2,043 mm) / 58 curved (105 mm)",
+  "- **Closed boxes:** 2; named: 'NBS",
+  "- **Words (OCR):** 16 in 14 lines: 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · H1t628 · EQUAliZER MODUlE · 'NBS ps · BS · tp"
+ ]
+}

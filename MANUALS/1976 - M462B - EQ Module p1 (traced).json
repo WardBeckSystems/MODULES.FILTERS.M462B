@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/FILTERS/M462B/MANUALS/1976 - M462B - EQ Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ef3ac2bb0dffe20e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1507, 2000],
+  "mm": [325.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "39"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [166.5, 0.0, 324.1, 431.8],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 1446, "mm": 5757.7}, "curved": {"n": 80, "mm": 150.8}},
+  "text": {"rings": 50, "straight": {"n": 1166, "mm": 4327.6}, "curved": {"n": 120, "mm": 225.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [178.5, 405.5, 274.0, 431.4], "text": "WBS"},
+   {"mm": [178.3, 366.2, 273.3, 390.4], "text": "WBS"},
+   {"mm": [177.3, 326.9, 273.8, 351.1], "text": "WBS"},
+   {"mm": [177.3, 286.9, 273.3, 310.7], "text": "WBS"},
+   {"mm": [176.2, 246.3, 273.3, 270.6], "text": "WBS"},
+   {"mm": [177.7, 206.4, 273.1, 230.1], "text": "WBS"},
+   {"mm": [176.6, 166.5, 273.1, 190.7], "text": "WBS"},
+   {"mm": [176.6, 126.5, 273.1, 150.3], "text": "WBS"},
+   {"mm": [209.9, 100.4, 232.5, 108.5], "text": "M462B"},
+   {"mm": [189.3, 89.0, 256.3, 97.1], "text": "EQUALIZER MODULE"},
+   {"mm": [179.0, 46.2, 274.0, 70.4], "text": "WBS"},
+   {"mm": [175.3, 7.6, 272.9, 31.3], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [168.9, 0.0, 280.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M462B", "EQUALIZER MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 325 × 432 mm, 1507 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 166–324 mm across, 0–432 mm up",
+  "- **Outlines:** line 32 rings, 1,446 straight (5,758 mm) / 80 curved (151 mm); text 50 rings, 1,166 straight (4,328 mm) / 120 curved (225 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M462B · EQUALIZER MODULE · WBS · WBS",
+  "- **Title block:** (169, 0)–(281, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M462B · EQUALIZER MODULE · WBS · WBS"
+ ]
+}
