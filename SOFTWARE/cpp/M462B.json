@@ -1,0 +1,90 @@
+{
+ "index": 3,
+ "code": "M462B",
+ "title": "M462B Parametric Equalizer",
+ "category": "Equalizers",
+ "description": "4-Band fully parametric equalizer with state-variable active filter topologies",
+ "circuitSummary": "Precision state-variable active topology with independent frequency, Q, and cut/boost on 4 overlapping bands with constant-Q bandwidth preservation.",
+ "nodes": [
+  {
+   "id": "in",
+   "label": "Balanced In",
+   "type": "input",
+   "x": 50,
+   "y": 80
+  },
+  {
+   "id": "b1",
+   "label": "Band 1 SVF (LF)",
+   "type": "filter",
+   "x": 160,
+   "y": 80
+  },
+  {
+   "id": "b2",
+   "label": "Band 2 SVF (LMF)",
+   "type": "filter",
+   "x": 300,
+   "y": 80
+  },
+  {
+   "id": "b3",
+   "label": "Band 3 SVF (HMF)",
+   "type": "filter",
+   "x": 450,
+   "y": 80
+  },
+  {
+   "id": "b4",
+   "label": "Band 4 SVF (HF)",
+   "type": "filter",
+   "x": 590,
+   "y": 80
+  },
+  {
+   "id": "out",
+   "label": "Clean Output",
+   "type": "output",
+   "x": 710,
+   "y": 80
+  }
+ ],
+ "wires": [
+  {
+   "from": "in",
+   "to": "b1"
+  },
+  {
+   "from": "b1",
+   "to": "b2"
+  },
+  {
+   "from": "b2",
+   "to": "b3"
+  },
+  {
+   "from": "b3",
+   "to": "b4"
+  },
+  {
+   "from": "b4",
+   "to": "out"
+  }
+ ],
+ "clap": {
+  "id": "ca.wbsps.m462b_parametric_eq",
+  "name": "Ward-Beck M462B Parametric Equalizer",
+  "strings": [
+   "ca.wbsps.m462b_parametric_eq",
+   "Ward-Beck M462B Parametric Equalizer",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Fully parametric 4-band broadcast console equalizer with rail voltage sag modeling"
+  ]
+ },
+ "suite_index": 3,
+ "source": "2030.env/vst/M462B_Parametric_EQ"
+}
