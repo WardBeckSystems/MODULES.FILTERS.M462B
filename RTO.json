@@ -3,122 +3,462 @@
  "connector": "RTO-144",
  "type": "EQUALIZER",
  "series": "L-EFFECT",
- "contacts": "22 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+   "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+   "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+   "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+   "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+   "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M462B/M462B.rto144.json",
+  "sheet_agrees": "8 of 8"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "EQ IN LEFT",
+   "ref": "1",
+   "also": "A",
+   "same_row": null,
+   "signal": "INPUT +",
    "kind": "in",
-   "pair": "A1",
+   "port": "INPUT",
    "polarity": "+",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "EQ IN LEFT +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "2",
-   "signal": "EQ IN LEFT",
+   "ref": "2",
+   "also": "B",
+   "same_row": null,
+   "signal": "INPUT -",
    "kind": "in",
-   "pair": "A1",
+   "port": "INPUT",
    "polarity": "-",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "EQ IN LEFT -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": "C",
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "15",
-   "signal": "EQ OUT LEFT",
+   "ref": "15",
+   "also": "S",
+   "same_row": null,
+   "signal": "OUTPUT +",
    "kind": "out",
-   "pair": "A2",
+   "port": "OUTPUT",
    "polarity": "+",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "EQ OUT LEFT +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "16",
-   "signal": "EQ OUT LEFT",
+   "ref": "16",
+   "also": "T",
+   "same_row": null,
+   "signal": "OUTPUT -",
    "kind": "out",
-   "pair": "A2",
+   "port": "OUTPUT",
    "polarity": "-",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "EQ OUT LEFT -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": "W",
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
+   "ref": "20",
+   "also": "X",
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": "Y",
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "22",
-   "signal": "CHASSIS",
+   "ref": "22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M462B/M462B.rto144.json",
-   "page": 1
-  }
- ],
- "straps": [],
- "power": [
-  {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": {
+    "signal": "CHASSIS",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": "1",
+   "same_row": true,
+   "signal": "INPUT +",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": "2",
+   "same_row": true,
+   "signal": "INPUT -",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": "3",
+   "same_row": true,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": "15",
+   "same_row": true,
+   "signal": "OUTPUT +",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": "16",
+   "same_row": true,
+   "signal": "OUTPUT -",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": true,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": "20",
+   "same_row": true,
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": "21",
+   "same_row": true,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": "22",
+   "same_row": true,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M462/PINOUTS/1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.pinout.json",
+    "M462/PINOUTS/1974 - M462 - P7 - Pin Out.pinout.json",
+    "M462A/PINOUTS/1974 - M462A - P6 - Pin Out.pinout.json",
+    "M462B/PINOUTS/1974 - M462B - P35 - Pin Out.pinout.json",
+    "M464/PINOUTS/1976 - M464 - P4 - Pin Out.pinout.json",
+    "M472/PINOUTS/1977 - M472 - Pin Out (2).pinout.json"
+   ],
+   "sheet": null
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M462B/M462B.rto144.json"
- ]
+ "ports": [
+  {
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-1",
+    "-": "P1-2",
+    "shield": "P1-3"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-15",
+    "-": "P1-16"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "conflicts": [],
+ "to_check": []
 }

@@ -121,18 +121,28 @@ Not on Google Drive yet: `M462B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 6 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 8 of 8 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | EQ IN LEFT | in | A1 + | high |
-| 2 | EQ IN LEFT | in | A1 - | high |
-| 15 | EQ OUT LEFT | out | A2 + | high |
-| 16 | EQ OUT LEFT | out | A2 - | high |
+| 1 | INPUT + | in | INPUT + | high |
+| 2 | INPUT - | in | INPUT - | high |
+| 3 | INPUT SHIELD | shield | INPUT shield | high |
+| 15 | OUTPUT + | out | OUTPUT + | high |
+| 16 | OUTPUT - | out | OUTPUT - | high |
 | 19 | -25 V | power |  | high |
 | 20 | COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| 22 | CHASSIS | ground |  | high |
+| 22 | CHASSIS GROUND | ground |  | high |
+| A | INPUT + | in | INPUT + | high |
+| B | INPUT - | in | INPUT - | high |
+| C | INPUT SHIELD | shield | INPUT shield | high |
+| S | OUTPUT + | out | OUTPUT + | high |
+| T | OUTPUT - | out | OUTPUT - | high |
+| W | -25 V | power |  | high |
+| X | COMMON | ground |  | high |
+| Y | +25 V | power |  | high |
+| Z | CHASSIS GROUND | ground |  | high |
 
 ## Manuals and documents
 
