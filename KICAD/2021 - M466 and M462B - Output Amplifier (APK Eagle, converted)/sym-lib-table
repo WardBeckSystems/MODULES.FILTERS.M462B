@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "M466_M462B_Output_Amplifier-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/M466_M462B_Output_Amplifier-eagle-import.kicad_sym")(options "")(descr ""))
+)

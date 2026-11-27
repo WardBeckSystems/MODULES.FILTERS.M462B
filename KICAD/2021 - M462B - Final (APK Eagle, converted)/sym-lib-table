@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "M462B_EQ-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/M462B_EQ-eagle-import.kicad_sym")(options "")(descr ""))
+)

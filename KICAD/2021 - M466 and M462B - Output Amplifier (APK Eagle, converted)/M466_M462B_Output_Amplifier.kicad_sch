@@ -1,0 +1,10441 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7af92b62-8de9-4441-abc9-27806cf3e7b7")
+	(paper "User" 319.786 329.362)
+	(lib_symbols
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:+18V"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#P+"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -5.08 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+18V_1_0"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy -1.27 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy -1.27 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0.635) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -0.635) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.905) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "+18V"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:+24V"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#P+"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -5.08 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+24V_1_0"
+				(polyline
+					(pts
+						(xy 0 1.27) (xy -1.27 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy -1.27 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -0.635) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -0.635) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "+24V"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:-18V"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#P-"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -2.54 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "-18V_1_0"
+				(polyline
+					(pts
+						(xy -1.27 1.905) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0.635) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -0.635) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.27 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 1.27 0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 1.27 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "-18V"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:-24V"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#P-"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -2.54 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "-24V_1_0"
+				(polyline
+					(pts
+						(xy -1.27 0.635) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0.635) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.27 0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 1.27 0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "-24V"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:1N4004"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 2.54 0.4826 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 2.54 -2.3114 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:DO41-10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "DIODE\n\nGeneral purpose 1N400x type rectifier\n\n(With bigger pads)\n\nhttp://www.ladyada.net/library/pcb/eaglelibrary.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "1N4004_1_0"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:C-USC0805"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 1.016 0.635 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 1.016 -4.191 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAPACITOR, American symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C-USC0805_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1)
+					(mid 1.3158 -1.2195)
+					(end 2.4892 -1.8541)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.4668 -1.8504)
+					(mid -1.302 -1.2303)
+					(end 0 -1.0161)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.016) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:C2.5/5"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 1.524 0.381 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 1.524 -4.699 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAPACITOR\n\nnaming: grid - package width"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C2.5/5_1_0"
+				(rectangle
+					(start -2.032 -1.016)
+					(end 2.032 -0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -2.032 -2.032)
+					(end 2.032 -1.524)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -2.032)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:GND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:LM201D"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC"
+				(at 2.54 5.715 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:SO08"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "OP AMP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "LM201D_1_0"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy -5.08 -5.08)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 2.54) (xy -3.175 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 -2.54) (xy -3.175 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 3.175) (xy -3.81 1.905)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 5.08) (xy -2.54 3.8862)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -3.8862) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 5.08) (xy 0 2.6162)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.08) (xy 0 -2.6162)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.6924 1.3208) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "V+"
+					(at -1.27 4.445 900)
+					(effects
+						(font
+							(size 0.8128 0.6908)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "V-"
+					(at -1.27 -5.715 900)
+					(effects
+						(font
+							(size 0.8128 0.6908)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "ON"
+					(at 1.27 3.175 900)
+					(effects
+						(font
+							(size 0.8128 0.6908)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "CMP"
+					(at 1.27 -5.08 900)
+					(effects
+						(font
+							(size 0.8128 0.6908)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "ON/CMP"
+					(at 3.175 2.54 900)
+					(effects
+						(font
+							(size 0.8128 0.6908)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+IN"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-IN"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 2.54)
+					(name "V+"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -7.62 90)
+					(length 2.54)
+					(name "V-"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "ON"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "CMP"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "ON/CMP"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:NPN-TRANSISTOR_SOT23"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at -10.16 7.62 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -10.16 5.08 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "NPN TRANSISTOR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "NPN-TRANSISTOR_SOT23_1_0"
+				(rectangle
+					(start -0.254 -2.54)
+					(end 0.508 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.778 -1.524)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.54 -2.0399) (xy 0.3081 -1.4239)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 -1.524) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 0.508 1.524)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:PNP-TRANSISTOR_SOT23"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at -10.16 7.62 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -10.16 5.08 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "PNP TRANSISTOR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PNP-TRANSISTOR_SOT23_1_0"
+				(rectangle
+					(start -0.254 -2.54)
+					(end 0.508 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.5159 1.478) (xy 2.0861 1.6779)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.5781 2.5941) (xy 0.5159 1.478)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.0861 1.6779) (xy 1.5781 2.5941)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 1.808 2.1239)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 0.508 -1.524)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at -3.81 1.4986 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -3.81 -3.302 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "RESISTOR, American symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R-US_R0805_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.159 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.159 1.016) (xy -1.524 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -1.016) (xy -0.889 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -1.016) (xy 0.381 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.381 1.016) (xy 1.016 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 -1.016) (xy 1.651 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.651 1.016) (xy 2.286 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.016) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "M466_M462B_Output_Amplifier-eagle-import:SMD2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "PAD"
+				(at -1.143 1.8542 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -1.143 -3.302 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SMD PAD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SMD2_1_0"
+				(polyline
+					(pts
+						(xy -1.016 1.016) (xy 1.016 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -1.016) (xy 1.016 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "P"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 185.42 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02895fb6-8fe8-42a5-bc82-32e6f328fd09")
+	)
+	(junction
+		(at 165.1 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05d38067-0654-455b-98a9-7db738c9e49c")
+	)
+	(junction
+		(at 35.56 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09204084-e088-41fc-a10f-5386e5075205")
+	)
+	(junction
+		(at 78.74 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c4f3699-69fe-4361-bd8e-371dc8a7fb25")
+	)
+	(junction
+		(at 86.36 292.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0cb58fe2-67b1-4570-b4fb-004720aba279")
+	)
+	(junction
+		(at 259.08 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15d2ac34-41b5-4f88-a15e-36006e22c8fa")
+	)
+	(junction
+		(at 144.78 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f7a4203-e906-48c8-b469-6ba7c49aa82a")
+	)
+	(junction
+		(at 109.22 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24903225-d7b5-4af2-8dc0-bca7112b5173")
+	)
+	(junction
+		(at 167.64 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24c9311f-8d4e-4dd2-80d4-2dc513efe4b1")
+	)
+	(junction
+		(at 154.94 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cbe0f1d-5d43-45c5-b281-93e535ce834d")
+	)
+	(junction
+		(at 185.42 261.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2fda22fd-b9f7-42e1-bbcd-67b4bc7fa91f")
+	)
+	(junction
+		(at 185.42 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3539e354-e94d-4476-967c-83c5a51bfd7e")
+	)
+	(junction
+		(at 165.1 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d7849b2-13bf-4b99-acdd-14a2fe42b99f")
+	)
+	(junction
+		(at 233.68 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f6fb45c-31f7-4f12-ad49-cd71d752e54d")
+	)
+	(junction
+		(at 154.94 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4070b895-b9d3-47d4-a001-3a45ae27c4fb")
+	)
+	(junction
+		(at 53.34 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4719f82c-5b01-46ae-9a31-a2dbd78ed91e")
+	)
+	(junction
+		(at 144.78 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "485d1530-b3a7-43a9-8fa2-4bfdaf268820")
+	)
+	(junction
+		(at 81.28 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ee93070-e164-43a7-91cf-991c761d890a")
+	)
+	(junction
+		(at 35.56 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f3de324-64b2-4fca-aaee-4455c3d3f550")
+	)
+	(junction
+		(at 185.42 292.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ff8dde8-0973-4abd-8b6b-61f58476dc92")
+	)
+	(junction
+		(at 81.28 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50b63adf-e08b-42db-9f91-02b6ed6f10c2")
+	)
+	(junction
+		(at 167.64 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "520fd18a-09eb-4b0d-ada7-81f56ec784c1")
+	)
+	(junction
+		(at 185.42 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "534a9251-00cb-4022-b9f1-09c401c043ed")
+	)
+	(junction
+		(at 185.42 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5798a565-9e19-4273-bc38-c3c7de217a9d")
+	)
+	(junction
+		(at 233.68 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58033431-98d8-4285-aa5f-55733413caa7")
+	)
+	(junction
+		(at 91.44 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59ed0eb0-d413-4c80-8578-3173a83da0de")
+	)
+	(junction
+		(at 185.42 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ba110af-0ad4-4ab8-9dc0-cc98a898ff23")
+	)
+	(junction
+		(at 208.28 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d33b9b8-f7da-4c4c-957e-f2fda610d992")
+	)
+	(junction
+		(at 185.42 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5dc17d0d-498a-4e33-b521-a8b573011635")
+	)
+	(junction
+		(at 144.78 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f8f4184-e4b1-4f31-898e-1c0cafd5dafa")
+	)
+	(junction
+		(at 208.28 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60a3fa26-6ded-4362-89d7-c9df3226a0b2")
+	)
+	(junction
+		(at 208.28 292.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61090cf0-7cb6-46a8-a396-9eb71f92a5b1")
+	)
+	(junction
+		(at 185.42 248.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6daca71e-3879-4fb5-8a67-0c3075a90754")
+	)
+	(junction
+		(at 78.74 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ac4b9c0-9e01-466b-97eb-62f9aa03794f")
+	)
+	(junction
+		(at 185.42 276.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7bdadc81-5027-492b-b250-64924259860e")
+	)
+	(junction
+		(at 81.28 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84e827c6-b79c-478b-b3cc-f28d0e4f4c9d")
+	)
+	(junction
+		(at 81.28 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8abfa922-eb22-4694-9565-6f260fd38c66")
+	)
+	(junction
+		(at 78.74 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "962bb481-1ae3-4aed-be3c-b3468f3e9e50")
+	)
+	(junction
+		(at 185.42 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "993dfe83-4316-46bc-90b6-be240fd2b164")
+	)
+	(junction
+		(at 144.78 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cfb59bd-f298-49f8-87c0-5095ab0dfe3e")
+	)
+	(junction
+		(at 208.28 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9fc35cc4-67b7-4ea4-b006-2f1dd6005189")
+	)
+	(junction
+		(at 144.78 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0c20fb1-86df-451f-9207-6b5e132afe97")
+	)
+	(junction
+		(at 81.28 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9c505a8-1b76-4662-8317-35eaf58f57e9")
+	)
+	(junction
+		(at 208.28 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad63cf16-8f4a-4c1b-8725-62f443a9ac75")
+	)
+	(junction
+		(at 185.42 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2d73f8c-3b4c-4b2d-8107-9b8ede17a203")
+	)
+	(junction
+		(at 193.04 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3276996-2ad2-4abf-8140-1e026e778434")
+	)
+	(junction
+		(at 109.22 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b36bb20c-60e0-47f4-82ac-61e481fbcc99")
+	)
+	(junction
+		(at 91.44 292.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b42b2e8c-85a2-4c42-8d98-7553e30cb0d0")
+	)
+	(junction
+		(at 185.42 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba3d0dd5-5de0-4419-9513-29f21b96716f")
+	)
+	(junction
+		(at 35.56 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bbf41b0f-0238-48ae-9209-2eefa282f0d8")
+	)
+	(junction
+		(at 208.28 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be2c2870-b7b2-43eb-8741-4ac959fea477")
+	)
+	(junction
+		(at 208.28 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c61fb594-8ddc-4273-8d92-92a1cecba946")
+	)
+	(junction
+		(at 185.42 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6f6d6ed-e129-4b60-aa23-a04c897aaa3e")
+	)
+	(junction
+		(at 259.08 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7c2f4f4-d5a6-46ae-8c7d-6d42f1325505")
+	)
+	(junction
+		(at 124.46 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d41726b9-03c6-485c-82a1-ae165532b858")
+	)
+	(junction
+		(at 71.12 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1198cec-2e45-4f63-befa-e5b0464798cf")
+	)
+	(junction
+		(at 193.04 261.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2083690-767c-4b6c-a35c-4d31e98c392c")
+	)
+	(junction
+		(at 185.42 223.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e338339d-7190-4620-bebf-8f987c32ef50")
+	)
+	(junction
+		(at 259.08 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e367f51a-abc3-45d1-a004-1fe671a7a09b")
+	)
+	(junction
+		(at 185.42 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4781b24-1e97-43d2-9387-de5e893a11a4")
+	)
+	(junction
+		(at 185.42 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebe2c564-020c-4be7-a42d-b1d97b23b81b")
+	)
+	(junction
+		(at 208.28 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb996438-eb57-4bc8-931b-686121af3175")
+	)
+	(wire
+		(pts
+			(xy 185.42 243.84) (xy 185.42 248.92)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "01b5a5ac-33c9-4247-ab97-c9b318b776b4")
+	)
+	(wire
+		(pts
+			(xy 78.74 220.98) (xy 78.74 231.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "02d77695-fef4-4bd6-a4a4-a1f15765a167")
+	)
+	(wire
+		(pts
+			(xy 208.28 83.82) (xy 208.28 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "066cb91a-8d58-459c-9f93-6a376f4698b2")
+	)
+	(wire
+		(pts
+			(xy 180.34 187.96) (xy 165.1 187.96)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "08b42758-932d-47e2-acbc-cfce0228f258")
+	)
+	(wire
+		(pts
+			(xy 91.44 210.82) (xy 91.44 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0a274ed7-e16e-4731-a1c9-0439bda88661")
+	)
+	(wire
+		(pts
+			(xy 78.74 236.22) (xy 99.06 236.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0ad28d2f-0f78-45bd-8222-2e2e2c89a7ab")
+	)
+	(wire
+		(pts
+			(xy 165.1 58.42) (xy 165.1 43.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0cbf7eb9-d541-45ef-9069-2bdaa219f21c")
+	)
+	(wire
+		(pts
+			(xy 208.28 241.3) (xy 208.28 231.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "11e50bee-ee60-4345-848e-f2124b09d6ae")
+	)
+	(wire
+		(pts
+			(xy 109.22 220.98) (xy 78.74 220.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "13293e9f-8e54-43e2-bd01-e4f9ecf819ee")
+	)
+	(wire
+		(pts
+			(xy 264.16 154.94) (xy 259.08 154.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "15101c61-923e-4d56-adc6-7b8358b91aa4")
+	)
+	(wire
+		(pts
+			(xy 86.36 60.96) (xy 71.12 60.96)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "15d6cfc1-35a8-4532-be22-6cb0cbcce140")
+	)
+	(wire
+		(pts
+			(xy 35.56 157.48) (xy 35.56 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1794ff17-734f-4dba-8d71-3ad5d2e9fc8a")
+	)
+	(wire
+		(pts
+			(xy 185.42 261.62) (xy 193.04 261.62)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1797c77e-6ebc-4845-83db-1f5abb3c5ecb")
+	)
+	(wire
+		(pts
+			(xy 124.46 101.6) (xy 124.46 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1ca7bee0-677e-4512-b048-2270123c75c7")
+	)
+	(wire
+		(pts
+			(xy 208.28 208.28) (xy 208.28 200.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1d050a21-c336-435b-9d02-3067e48ac958")
+	)
+	(wire
+		(pts
+			(xy 144.78 167.64) (xy 185.42 167.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1f94e0ee-65e0-4a4b-9e73-9d34eccf5432")
+	)
+	(wire
+		(pts
+			(xy 259.08 218.44) (xy 292.1 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1fd1973c-3665-4935-9e60-e26bf5ebb454")
+	)
+	(wire
+		(pts
+			(xy 185.42 50.8) (xy 185.42 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "21bfbdd1-988e-4ef8-b005-732a481c3726")
+	)
+	(wire
+		(pts
+			(xy 68.58 22.86) (xy 81.28 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "21dce2b3-af02-4c1b-8edc-588ca201dcac")
+	)
+	(wire
+		(pts
+			(xy 185.42 193.04) (xy 185.42 195.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "257eb6f8-c504-4b87-94b2-62ed55f34a96")
+	)
+	(wire
+		(pts
+			(xy 109.22 215.9) (xy 109.22 220.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "27674d26-e44b-42cc-aada-b245d5e8d80d")
+	)
+	(wire
+		(pts
+			(xy 55.88 205.74) (xy 53.34 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "294b12e7-176a-4654-bdb2-57f384dfc6a9")
+	)
+	(wire
+		(pts
+			(xy 203.2 50.8) (xy 185.42 50.8)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "29a3885a-9829-4d0c-aee7-ad91dc6488c2")
+	)
+	(wire
+		(pts
+			(xy 185.42 195.58) (xy 185.42 203.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2a1809bb-3ac6-4cc2-b19d-d04c306e9b92")
+	)
+	(wire
+		(pts
+			(xy 91.44 22.86) (xy 111.76 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2a5ef33b-9733-4dd5-bf4b-ea8b9155976b")
+	)
+	(wire
+		(pts
+			(xy 165.1 203.2) (xy 165.1 187.96)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2c6e46a6-5b0e-4a3c-9dcb-fd7096cd5a9e")
+	)
+	(wire
+		(pts
+			(xy 81.28 91.44) (xy 81.28 101.6)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2e9d87ad-8b59-4170-b44a-602348989967")
+	)
+	(wire
+		(pts
+			(xy 185.42 203.2) (xy 185.42 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2fec01d9-8331-4cc7-bac6-275cffb5a6e1")
+	)
+	(wire
+		(pts
+			(xy 185.42 99.06) (xy 185.42 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3042364f-c9fe-40cb-bb1b-6ed9beb99f86")
+	)
+	(wire
+		(pts
+			(xy 144.78 198.12) (xy 144.78 187.96)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "32ae817e-338f-4211-afb9-eae5bbfa3181")
+	)
+	(wire
+		(pts
+			(xy 132.08 213.36) (xy 129.54 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "35522cfd-150a-441e-bcdc-0ac16da36467")
+	)
+	(wire
+		(pts
+			(xy 43.18 55.88) (xy 35.56 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3680a2ca-7528-4c59-bd65-938d4e99defe")
+	)
+	(wire
+		(pts
+			(xy 144.78 213.36) (xy 154.94 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "36bf75cd-a9e8-476c-a16c-8973fc78c19c")
+	)
+	(wire
+		(pts
+			(xy 144.78 53.34) (xy 144.78 43.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "37954d0a-6250-4da6-b16d-4f79a78a7684")
+	)
+	(wire
+		(pts
+			(xy 144.78 43.18) (xy 144.78 35.56)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3832dfaa-ffb8-409f-ba4b-a03dd3470a88")
+	)
+	(wire
+		(pts
+			(xy 208.28 266.7) (xy 208.28 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3a4fa132-5a93-4629-8aad-47554ab1f5b8")
+	)
+	(wire
+		(pts
+			(xy 251.46 218.44) (xy 259.08 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3cefb122-3119-4939-8228-cb957a0f66b1")
+	)
+	(wire
+		(pts
+			(xy 154.94 223.52) (xy 154.94 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3d444b58-c0ca-4cbd-b88f-edb9970fe9d9")
+	)
+	(wire
+		(pts
+			(xy 185.42 213.36) (xy 167.64 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3dc71497-1006-46ad-a5b2-aa0b58c0dab6")
+	)
+	(wire
+		(pts
+			(xy 208.28 144.78) (xy 223.52 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4236e066-9650-4b7a-8fa7-a5de496a5925")
+	)
+	(wire
+		(pts
+			(xy 144.78 25.4) (xy 144.78 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "43aea320-dba3-489d-abce-4b7153e6be23")
+	)
+	(wire
+		(pts
+			(xy 177.8 78.74) (xy 185.42 78.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4587ff96-f75c-40f2-9b15-0031f21ecce2")
+	)
+	(wire
+		(pts
+			(xy 185.42 167.64) (xy 185.42 172.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "463042a7-1163-43e3-bbfb-4b1487b56eb7")
+	)
+	(wire
+		(pts
+			(xy 73.66 292.1) (xy 86.36 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "47b6b60f-cfce-40da-a19c-1634b62a124f")
+	)
+	(wire
+		(pts
+			(xy 185.42 279.4) (xy 185.42 276.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4981e32f-7884-4b8d-8d68-0263515ec79b")
+	)
+	(wire
+		(pts
+			(xy 185.42 292.1) (xy 185.42 289.56)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4b08cfef-e215-4429-8319-e82b9928d3eb")
+	)
+	(wire
+		(pts
+			(xy 71.12 200.66) (xy 86.36 200.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4bff65d1-a264-4470-a2a4-7d032b6a97e5")
+	)
+	(wire
+		(pts
+			(xy 86.36 205.74) (xy 78.74 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4c1e7184-130f-4382-95d0-b94369db3d1e")
+	)
+	(wire
+		(pts
+			(xy 259.08 172.72) (xy 259.08 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4e2495f8-d507-483a-8efb-1304cdddbf0d")
+	)
+	(wire
+		(pts
+			(xy 167.64 276.86) (xy 185.42 276.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4f818560-1f6e-4aa8-81ce-a29528fbfe65")
+	)
+	(wire
+		(pts
+			(xy 167.64 91.44) (xy 233.68 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4fc56134-6a1e-48b0-8b47-9b363a9accac")
+	)
+	(wire
+		(pts
+			(xy 170.18 58.42) (xy 165.1 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4fef8403-3137-4cab-b3e1-743f6b3fe854")
+	)
+	(wire
+		(pts
+			(xy 208.28 96.52) (xy 208.28 83.82)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4ff9ee1d-2ef6-4b91-8719-2dd278cae8e3")
+	)
+	(wire
+		(pts
+			(xy 144.78 187.96) (xy 144.78 180.34)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "504cbcd9-6fa5-482c-9cce-84c7a10b0945")
+	)
+	(wire
+		(pts
+			(xy 96.52 101.6) (xy 109.22 101.6)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "50bef0a7-70e1-4fcb-ac1d-7361211c7f59")
+	)
+	(wire
+		(pts
+			(xy 167.64 91.44) (xy 167.64 96.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "533dcf25-8079-4336-813a-9e66c92a1037")
+	)
+	(wire
+		(pts
+			(xy 203.2 116.84) (xy 193.04 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "53ae3d92-d213-4dca-a750-327d888c9e2f")
+	)
+	(wire
+		(pts
+			(xy 208.28 167.64) (xy 223.52 167.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5a722666-ab1e-41b4-9187-23413e1a9b46")
+	)
+	(wire
+		(pts
+			(xy 203.2 261.62) (xy 193.04 261.62)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5b74bbea-781d-460d-b0f4-355db1728205")
+	)
+	(wire
+		(pts
+			(xy 170.18 78.74) (xy 154.94 78.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5c6bc46a-4d81-4d58-a15b-ebb7a4a3a01f")
+	)
+	(wire
+		(pts
+			(xy 109.22 203.2) (xy 139.7 203.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5d69496d-8234-44a8-baf2-41a071756fca")
+	)
+	(wire
+		(pts
+			(xy 152.4 292.1) (xy 185.42 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5daf7f5f-3018-4ea6-89fe-f09a8072e07e")
+	)
+	(wire
+		(pts
+			(xy 154.94 68.58) (xy 157.48 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5deb856e-d20a-4738-a0f8-e72ca81b6083")
+	)
+	(wire
+		(pts
+			(xy 243.84 218.44) (xy 233.68 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5e1615b1-436e-4592-bdd8-5bea2452fc86")
+	)
+	(wire
+		(pts
+			(xy 185.42 104.14) (xy 185.42 106.68)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5feb8ada-aed4-48e6-a617-2febd1a3f7c3")
+	)
+	(wire
+		(pts
+			(xy 185.42 58.42) (xy 185.42 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "603e68a2-5e6f-4ac1-b374-db37d6f90d63")
+	)
+	(wire
+		(pts
+			(xy 109.22 76.2) (xy 109.22 71.12)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "62e0f6aa-55db-45f0-8983-b8e3c6c1a7a0")
+	)
+	(wire
+		(pts
+			(xy 91.44 292.1) (xy 86.36 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "63f2a44c-7ce7-444c-8d80-7fa361efd20e")
+	)
+	(wire
+		(pts
+			(xy 81.28 76.2) (xy 81.28 83.82)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6517c9ef-3ae1-4e52-b08e-a6e30751a9f4")
+	)
+	(wire
+		(pts
+			(xy 81.28 55.88) (xy 81.28 76.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "65b88324-5ad9-4a1d-a144-5717bc95f93f")
+	)
+	(wire
+		(pts
+			(xy 78.74 231.14) (xy 78.74 236.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6663eb85-b25e-4460-ac2e-09d8ca27d87a")
+	)
+	(wire
+		(pts
+			(xy 35.56 205.74) (xy 20.32 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "669b9e2d-bf95-4d08-96bb-d3edfc7fa846")
+	)
+	(wire
+		(pts
+			(xy 185.42 119.38) (xy 185.42 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "685d9e64-d7ca-4b90-86f4-14ea363a382d")
+	)
+	(wire
+		(pts
+			(xy 193.04 248.92) (xy 185.42 248.92)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "68c486c3-208e-4e81-b700-9b29b70f74a5")
+	)
+	(wire
+		(pts
+			(xy 129.54 213.36) (xy 129.54 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "69750ab5-5474-47cd-8611-546bd5dda797")
+	)
+	(wire
+		(pts
+			(xy 116.84 101.6) (xy 124.46 101.6)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "69d3913f-b5ff-4c03-9352-a7058d26f691")
+	)
+	(wire
+		(pts
+			(xy 81.28 22.86) (xy 81.28 30.48)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6bbfa022-1ece-4bc5-86cb-b9b3eaa96cd7")
+	)
+	(wire
+		(pts
+			(xy 132.08 68.58) (xy 129.54 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6ced455d-dbc0-43b7-bf5a-fa55ab780495")
+	)
+	(wire
+		(pts
+			(xy 167.64 104.14) (xy 167.64 132.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6cf58d8a-9b4a-4ffc-98c7-1f47766c5f47")
+	)
+	(wire
+		(pts
+			(xy 71.12 157.48) (xy 71.12 200.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6d3bd326-c0c5-486f-8d3d-67ead198d340")
+	)
+	(wire
+		(pts
+			(xy 78.74 205.74) (xy 63.5 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6e8c1f10-3ae5-4c90-9ec9-4217ee4ff8f2")
+	)
+	(wire
+		(pts
+			(xy 81.28 76.2) (xy 109.22 76.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6f9068fb-75ff-4ad1-a451-d77125daa956")
+	)
+	(wire
+		(pts
+			(xy 124.46 91.44) (xy 132.08 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "70f77f7b-7689-4b66-9523-1bf92f89a2f6")
+	)
+	(wire
+		(pts
+			(xy 208.28 22.86) (xy 208.28 45.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "71c45fbb-9d39-4c25-80eb-b0b535b947db")
+	)
+	(wire
+		(pts
+			(xy 165.1 43.18) (xy 144.78 43.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "71e555ac-ec61-44a3-9557-5c4ec5ce8f56")
+	)
+	(wire
+		(pts
+			(xy 142.24 91.44) (xy 167.64 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7203c7ab-5cdb-4a0c-8cd5-ce88046d3cfe")
+	)
+	(wire
+		(pts
+			(xy 248.92 73.66) (xy 233.68 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7840f642-a9ed-4d38-bbdc-7e8f7abd1eb3")
+	)
+	(wire
+		(pts
+			(xy 154.94 213.36) (xy 157.48 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "79356bd0-2589-4e4c-bf53-ea0be8680c06")
+	)
+	(wire
+		(pts
+			(xy 71.12 55.88) (xy 81.28 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "79fb121a-ac88-4af0-bf73-28c173fd0a8b")
+	)
+	(wire
+		(pts
+			(xy 109.22 58.42) (xy 109.22 63.5)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7b515900-534a-4c39-b0b6-d9860f6c9e31")
+	)
+	(wire
+		(pts
+			(xy 185.42 116.84) (xy 193.04 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7da2a3a5-b579-4165-9650-144411ff62d1")
+	)
+	(wire
+		(pts
+			(xy 208.28 22.86) (xy 294.64 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7e24923f-2624-4f1b-8030-caa660d70206")
+	)
+	(wire
+		(pts
+			(xy 208.28 167.64) (xy 208.28 190.5)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7fc2cccb-f616-437c-a418-b89be655007e")
+	)
+	(wire
+		(pts
+			(xy 185.42 223.52) (xy 185.42 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "80819093-24b1-498d-a624-2bdcc350a8a0")
+	)
+	(wire
+		(pts
+			(xy 81.28 91.44) (xy 109.22 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "810246bf-b9f2-4e3b-9160-1e130ea47edf")
+	)
+	(wire
+		(pts
+			(xy 144.78 213.36) (xy 142.24 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "84f6a381-165b-4ffd-b219-b92b913907e0")
+	)
+	(wire
+		(pts
+			(xy 78.74 220.98) (xy 78.74 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "85545331-6ed5-4735-b67d-bf7c884b9794")
+	)
+	(wire
+		(pts
+			(xy 144.78 68.58) (xy 142.24 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "86600c8a-4a8f-40de-8e22-97fa7b0e1de3")
+	)
+	(wire
+		(pts
+			(xy 193.04 104.14) (xy 185.42 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "89623941-6154-405a-af8e-a59227b1dbf3")
+	)
+	(wire
+		(pts
+			(xy 180.34 43.18) (xy 165.1 43.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "897b87b3-591c-40d5-9bf7-16e4da1d9551")
+	)
+	(wire
+		(pts
+			(xy 259.08 154.94) (xy 259.08 162.56)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8bc54edd-03ee-4f22-ab12-3f445c3be603")
+	)
+	(wire
+		(pts
+			(xy 208.28 292.1) (xy 292.1 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8c777885-97c2-4190-95b1-78a7b356b172")
+	)
+	(wire
+		(pts
+			(xy 203.2 195.58) (xy 185.42 195.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8c9b1327-44df-466b-a224-1438b57cb243")
+	)
+	(wire
+		(pts
+			(xy 91.44 193.04) (xy 91.44 195.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8caabde0-74ee-44d4-b865-7a6caaed0e49")
+	)
+	(wire
+		(pts
+			(xy 71.12 60.96) (xy 71.12 119.38)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8d5c7bfd-097f-4fbd-9de4-7e2acb2fc3d3")
+	)
+	(wire
+		(pts
+			(xy 76.2 137.16) (xy 71.12 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8da0cdbb-ceb8-4c51-b1af-afc65ce3002e")
+	)
+	(wire
+		(pts
+			(xy 81.28 101.6) (xy 86.36 101.6)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "90d1adaa-a27b-4fb7-b2df-c991e6c2cb73")
+	)
+	(wire
+		(pts
+			(xy 177.8 223.52) (xy 185.42 223.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "933c6e59-fc8b-4389-a3b1-13237807e1b9")
+	)
+	(wire
+		(pts
+			(xy 78.74 231.14) (xy 81.28 231.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "94bd3bd6-c04c-4598-8be7-45b232b204b5")
+	)
+	(wire
+		(pts
+			(xy 177.8 58.42) (xy 185.42 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "967c7ed0-0f5f-4b15-a056-53325baf02ae")
+	)
+	(wire
+		(pts
+			(xy 208.28 121.92) (xy 208.28 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "99e2ec3c-dcb9-4c58-8a2e-c02b51ff95ba")
+	)
+	(wire
+		(pts
+			(xy 86.36 292.1) (xy 86.36 294.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9b5b36ad-619e-4981-afc2-431f8eeaf50b")
+	)
+	(wire
+		(pts
+			(xy 185.42 116.84) (xy 185.42 111.76)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9d855d3f-85eb-45d1-83a7-d10493ad4727")
+	)
+	(wire
+		(pts
+			(xy 170.18 203.2) (xy 165.1 203.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9f0d7696-d39d-43d4-99d6-8515cae7f5aa")
+	)
+	(wire
+		(pts
+			(xy 185.42 167.64) (xy 208.28 167.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a11b1378-8e73-4f9f-8b1d-676eda67b890")
+	)
+	(wire
+		(pts
+			(xy 53.34 205.74) (xy 48.26 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a13276f3-60e3-4c08-9137-5421996a1647")
+	)
+	(wire
+		(pts
+			(xy 185.42 248.92) (xy 185.42 251.46)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a28f3b80-c2aa-409e-a578-05b988bc3b72")
+	)
+	(wire
+		(pts
+			(xy 81.28 83.82) (xy 81.28 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a5bee97f-a88c-49f2-9792-e82a548e9e60")
+	)
+	(wire
+		(pts
+			(xy 185.42 276.86) (xy 185.42 274.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a5d3e8a8-bb6f-436e-a9ca-3ddae925aa15")
+	)
+	(wire
+		(pts
+			(xy 35.56 119.38) (xy 35.56 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a67459cf-8687-4e8d-ab86-61100e543603")
+	)
+	(wire
+		(pts
+			(xy 167.64 236.22) (xy 233.68 236.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ab648433-e76d-477c-84fb-38576dca134e")
+	)
+	(wire
+		(pts
+			(xy 185.42 78.74) (xy 185.42 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ac85de16-4eaa-44ee-8e19-339519b4a5dd")
+	)
+	(wire
+		(pts
+			(xy 109.22 203.2) (xy 109.22 208.28)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ad823582-c84c-4eb5-a946-a8ab2e0f131c")
+	)
+	(wire
+		(pts
+			(xy 170.18 223.52) (xy 154.94 223.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "aec6d155-7217-4f21-9890-cae0c523370d")
+	)
+	(wire
+		(pts
+			(xy 144.78 22.86) (xy 121.92 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "aee5ca02-5afa-4ef0-8562-c3baad133675")
+	)
+	(wire
+		(pts
+			(xy 292.1 154.94) (xy 287.02 154.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b03f7cb2-f5e8-4f9c-aa85-e22db1539829")
+	)
+	(wire
+		(pts
+			(xy 93.98 83.82) (xy 208.28 83.82)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b13555c7-5d1e-41b6-ab42-5eacf6e5dd6d")
+	)
+	(wire
+		(pts
+			(xy 35.56 137.16) (xy 35.56 147.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b3ffd537-bf89-4e6f-b24b-f8f03f5b7f34")
+	)
+	(wire
+		(pts
+			(xy 154.94 78.74) (xy 154.94 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b6be5278-e205-40a6-9577-7f764e341c9d")
+	)
+	(wire
+		(pts
+			(xy 218.44 218.44) (xy 208.28 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b80168d0-8f3e-46a8-a7b6-e022d259a609")
+	)
+	(wire
+		(pts
+			(xy 208.28 251.46) (xy 208.28 256.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b85deb54-affc-490a-a2cc-6ee67a9144db")
+	)
+	(wire
+		(pts
+			(xy 35.56 55.88) (xy 22.86 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b9bf0000-0f77-4af9-9c85-4768e59c4123")
+	)
+	(wire
+		(pts
+			(xy 208.28 231.14) (xy 208.28 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "bd51cb4b-dca3-4f4e-bc9e-19165ebf4998")
+	)
+	(wire
+		(pts
+			(xy 101.6 58.42) (xy 109.22 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "be165df2-9de0-4dc3-baea-4a1a31de8b59")
+	)
+	(wire
+		(pts
+			(xy 144.78 22.86) (xy 185.42 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c0fc7cab-1580-4b1b-b09d-b1b45b3aefdb")
+	)
+	(wire
+		(pts
+			(xy 208.28 106.68) (xy 208.28 111.76)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c49d1f7d-ef75-4b5a-aa2a-cbe37494d9ec")
+	)
+	(wire
+		(pts
+			(xy 165.1 187.96) (xy 144.78 187.96)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c53e48f1-1738-49d8-a5e4-5a68ac3eddb0")
+	)
+	(wire
+		(pts
+			(xy 40.64 137.16) (xy 35.56 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c5a490da-d822-4259-8096-35d843a4d6c8")
+	)
+	(wire
+		(pts
+			(xy 259.08 147.32) (xy 259.08 154.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c5c75294-4e30-4b88-b227-20d9838e8cfd")
+	)
+	(wire
+		(pts
+			(xy 119.38 91.44) (xy 124.46 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c6947496-1dcc-40f0-8690-334b2ba9c98c")
+	)
+	(wire
+		(pts
+			(xy 185.42 48.26) (xy 185.42 50.8)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c790070a-eaec-4503-9e4b-28569d63d001")
+	)
+	(wire
+		(pts
+			(xy 91.44 292.1) (xy 142.24 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c8d774d1-c449-4949-b209-354f50b3688a")
+	)
+	(wire
+		(pts
+			(xy 71.12 137.16) (xy 71.12 147.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c93785e4-6851-47e4-bd6e-79808d166152")
+	)
+	(wire
+		(pts
+			(xy 177.8 203.2) (xy 185.42 203.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c995cdfa-603c-4bfb-978a-ee854495a9bb")
+	)
+	(wire
+		(pts
+			(xy 185.42 292.1) (xy 208.28 292.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cb9c9963-4431-4b31-b25a-ba0df96573ba")
+	)
+	(wire
+		(pts
+			(xy 185.42 261.62) (xy 185.42 256.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cc27dbed-9aaa-45c7-8475-5db2ee353d4b")
+	)
+	(wire
+		(pts
+			(xy 256.54 73.66) (xy 259.08 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ccf003b9-fad7-4afe-acd6-19499bf4f042")
+	)
+	(wire
+		(pts
+			(xy 109.22 236.22) (xy 116.84 236.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cddb0b13-1b55-4130-b28c-0a1e68a7e864")
+	)
+	(wire
+		(pts
+			(xy 294.64 73.66) (xy 259.08 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d094cc75-5b2f-45fa-9de5-93bd2cdbe737")
+	)
+	(wire
+		(pts
+			(xy 35.56 129.54) (xy 35.56 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d0e6abf8-ce40-4eb7-a232-0e9cae6c21d8")
+	)
+	(wire
+		(pts
+			(xy 167.64 236.22) (xy 167.64 241.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d5a5015f-a2bf-4910-8f3a-9c2332e49d36")
+	)
+	(wire
+		(pts
+			(xy 101.6 203.2) (xy 109.22 203.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d5bd4775-a886-48d6-bbab-8d4afafd1015")
+	)
+	(wire
+		(pts
+			(xy 185.42 22.86) (xy 208.28 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d7dc4846-5553-4ab6-9c0c-acc365f34992")
+	)
+	(wire
+		(pts
+			(xy 185.42 22.86) (xy 185.42 27.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "dad9b68f-192e-4bb8-8f1e-350197caeaa8")
+	)
+	(wire
+		(pts
+			(xy 127 236.22) (xy 167.64 236.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "dbe2912a-c659-4550-ae3f-78884c63ea48")
+	)
+	(wire
+		(pts
+			(xy 109.22 58.42) (xy 139.7 58.42)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "de0cba5c-d943-4f8e-ac48-fc2d59d1d158")
+	)
+	(wire
+		(pts
+			(xy 233.68 91.44) (xy 233.68 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e0ed89da-3d63-4ffc-bed6-e4dcd79e3b8b")
+	)
+	(wire
+		(pts
+			(xy 40.64 205.74) (xy 35.56 205.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e2731ca9-dccf-4be6-a5b1-b1bcb841d30e")
+	)
+	(wire
+		(pts
+			(xy 81.28 55.88) (xy 86.36 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e3216e51-a3e0-4fe5-bade-ed7e4861c84b")
+	)
+	(wire
+		(pts
+			(xy 185.42 68.58) (xy 167.64 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e3380d5c-1c42-4ad8-bc40-e25af996fcfb")
+	)
+	(wire
+		(pts
+			(xy 259.08 73.66) (xy 259.08 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e4938160-be5f-42bc-ab55-d7f196309828")
+	)
+	(wire
+		(pts
+			(xy 185.42 132.08) (xy 185.42 129.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e51265a9-f8fa-4879-bde4-d289c2f6c1e1")
+	)
+	(wire
+		(pts
+			(xy 91.44 50.8) (xy 91.44 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e6dbe7b6-3b38-48d0-8837-cff1f46c22dd")
+	)
+	(wire
+		(pts
+			(xy 208.28 144.78) (xy 185.42 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e847c593-8b82-4237-b4c4-4b6cf50ee030")
+	)
+	(wire
+		(pts
+			(xy 81.28 83.82) (xy 86.36 83.82)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e982017e-676a-4143-9582-de56cda7c722")
+	)
+	(wire
+		(pts
+			(xy 86.36 302.26) (xy 86.36 304.8)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "eaf12c30-07f8-4023-8293-349c6998239a")
+	)
+	(wire
+		(pts
+			(xy 185.42 134.62) (xy 185.42 132.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "eb770a3e-e0ad-4581-938c-18a0fbf2ce04")
+	)
+	(wire
+		(pts
+			(xy 218.44 73.66) (xy 208.28 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ec217ae0-2950-4af2-b97a-283c6e2d54b8")
+	)
+	(wire
+		(pts
+			(xy 208.28 63.5) (xy 208.28 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ec5c28aa-c26f-458c-becd-999d9dd6c6a3")
+	)
+	(wire
+		(pts
+			(xy 185.42 78.74) (xy 185.42 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ef518698-49cb-4671-860f-d719d266c240")
+	)
+	(wire
+		(pts
+			(xy 193.04 261.62) (xy 193.04 259.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f14b886e-6608-4435-88fc-c57313682919")
+	)
+	(wire
+		(pts
+			(xy 144.78 208.28) (xy 144.78 213.36)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f20ec664-0b3f-4f10-af87-dc7fdfd8a518")
+	)
+	(wire
+		(pts
+			(xy 50.8 55.88) (xy 60.96 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f2532202-7edb-4036-8525-18fff69b14ba")
+	)
+	(wire
+		(pts
+			(xy 185.42 223.52) (xy 185.42 238.76)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f27ed61b-e560-472c-a94a-37232061f19c")
+	)
+	(wire
+		(pts
+			(xy 144.78 170.18) (xy 144.78 167.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f295354c-fdf7-4d35-a21a-44577d84e676")
+	)
+	(wire
+		(pts
+			(xy 144.78 68.58) (xy 154.94 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f34c7969-73d9-4fd3-a40f-8344cf275603")
+	)
+	(wire
+		(pts
+			(xy 167.64 248.92) (xy 167.64 276.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f8a25c50-c8b4-4959-b371-9a022009d5fb")
+	)
+	(wire
+		(pts
+			(xy 71.12 129.54) (xy 71.12 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f8b56743-53a5-4de5-9e0a-2a1b14347caf")
+	)
+	(wire
+		(pts
+			(xy 88.9 231.14) (xy 208.28 231.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fa00d805-3ace-473d-9f7c-aaf2537b328c")
+	)
+	(wire
+		(pts
+			(xy 144.78 63.5) (xy 144.78 68.58)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fb95e8ed-029f-402d-8dc2-7ce06ad57e5c")
+	)
+	(wire
+		(pts
+			(xy 233.68 218.44) (xy 228.6 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fc13a8ec-1449-46e9-8eb2-f013bc52b349")
+	)
+	(wire
+		(pts
+			(xy 233.68 73.66) (xy 228.6 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fc50de90-9582-41dd-a7ca-089249f3725f")
+	)
+	(wire
+		(pts
+			(xy 129.54 68.58) (xy 129.54 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fc8a18be-61ec-4dda-8089-32746a1baaae")
+	)
+	(wire
+		(pts
+			(xy 193.04 116.84) (xy 193.04 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fcf6a0fa-5430-4e04-8388-21ac2426f74c")
+	)
+	(wire
+		(pts
+			(xy 185.42 264.16) (xy 185.42 261.62)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fdb19011-8b97-47e9-954c-c86d735e1ea8")
+	)
+	(wire
+		(pts
+			(xy 233.68 236.22) (xy 233.68 218.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fdb61e92-17f9-4dd1-979b-fe41cea78613")
+	)
+	(wire
+		(pts
+			(xy 167.64 132.08) (xy 185.42 132.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fdc8c478-8d15-46e0-bf49-06da5469f16f")
+	)
+	(wire
+		(pts
+			(xy 81.28 22.86) (xy 91.44 22.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fdf3d635-2a9a-4fdc-98b1-0825ba5d9db2")
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:NPN-TRANSISTOR_SOT23")
+		(at 142.24 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ae1a612-b855-4fa0-8d5c-0fb97ac190b2")
+		(property "Reference" "Q1"
+			(at 132.08 50.8 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "NPN-TRANSISTOR_SOT23"
+			(at 132.08 53.34 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 142.24 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34df8bef-0d90-4d9f-9d26-f66c76ce752b")
+		)
+		(pin "3"
+			(uuid "c753c926-2b61-4830-82d3-fd1c453a3ed3")
+		)
+		(pin "2"
+			(uuid "8e8a4990-c191-4264-8035-e81e16ba2043")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 137.16 213.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b87f9ab-a3ee-4733-bd71-37cf143e3c49")
+		(property "Reference" "R23"
+			(at 133.35 211.8614 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22k"
+			(at 133.35 216.662 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 137.16 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c9578a6-22b5-4dc2-8006-2d393e694427")
+		)
+		(pin "2"
+			(uuid "61479c8f-90bf-4ac9-aeac-a017e49ef176")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 91.44 83.82 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0d8264f8-b028-478d-b415-5d382c923920")
+		(property "Reference" "C6"
+			(at 91.821 85.344 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4.7p"
+			(at 86.741 85.344 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 91.44 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8117d85e-775a-4e49-925f-b00a5b173150")
+		)
+		(pin "2"
+			(uuid "cd7d28ec-f2f1-45da-ae3d-696f4c5b56fb")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 185.42 33.02 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e4edea2-44a6-478d-a56d-b2edb202f835")
+		(property "Reference" "R19"
+			(at 186.9186 29.21 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22"
+			(at 182.118 29.21 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 185.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b851eb29-0f95-47ab-8136-d40c4100702c")
+		)
+		(pin "2"
+			(uuid "0d99d2c4-f8dc-49b8-9733-8fce11afcbe1")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 185.42 139.7 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "140c89d0-c2b8-4e45-afce-0e7ce63e7604")
+		(property "Reference" "R22"
+			(at 186.9186 135.89 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 182.118 135.89 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 185.42 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "faf3cb79-f0e6-4d96-9418-8e6a37c121b2")
+		)
+		(pin "2"
+			(uuid "cc9e3fb4-b955-482b-b4a6-0be07de7a5ba")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:NPN-TRANSISTOR_SOT23")
+		(at 205.74 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "15752dc9-5561-4324-b79d-fc21c3080252")
+		(property "Reference" "Q3"
+			(at 195.58 43.18 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "NPN-TRANSISTOR_SOT23"
+			(at 195.58 45.72 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 205.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "992cd049-83c4-432e-9d14-971c0b1437bc")
+		)
+		(pin "3"
+			(uuid "8c34abdb-9966-4d99-9e7c-5ed6b176aebd")
+		)
+		(pin "2"
+			(uuid "a64d3893-2874-49ea-8f61-a2c3070004ca")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 208.28 101.6 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17c0f2ad-8e09-4197-9dff-ec9330837732")
+		(property "Reference" "R31"
+			(at 209.7786 97.79 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "6.8"
+			(at 204.978 97.79 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b58def98-bce2-42e2-b3ab-950fe31124fa")
+		)
+		(pin "2"
+			(uuid "5296806e-73aa-4716-a0a8-8921c7ecaf7e")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 109.22 210.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d574eeb-357c-4f62-b469-aa471c58bc84")
+		(property "Reference" "C10"
+			(at 110.744 210.439 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4.7p"
+			(at 110.744 215.519 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 109.22 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "52618591-cc72-4468-81fb-e4c591e9c9ea")
+		)
+		(pin "2"
+			(uuid "5ae22457-b710-4bfb-94f1-2c9e026c21cd")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 208.28 213.36 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d581c1e-abe9-4392-b37b-d8848f202692")
+		(property "Reference" "R32"
+			(at 209.7786 209.55 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "6.8"
+			(at 204.978 209.55 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 208.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5441b43e-1b8c-492e-af68-e21d8059eef1")
+		)
+		(pin "2"
+			(uuid "5fed82ea-a12b-4526-8190-8a8cd0591311")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 40.64 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d9a1143-6003-4342-a244-2dba4f51d366")
+		(property "Reference" "#SUPPLY1"
+			(at 40.64 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 142.24 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.64 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4fde9e42-9250-45c1-94f7-c9135b57cdcc")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:PNP-TRANSISTOR_SOT23")
+		(at 205.74 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1da4ef4f-c66a-4233-bb6d-d407c65a173d")
+		(property "Reference" "Q4"
+			(at 195.58 109.22 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PNP-TRANSISTOR_SOT23"
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 205.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4e4d0cd-8e40-4b57-b27f-06c25968ca7b")
+		)
+		(pin "2"
+			(uuid "2444eed4-c7d3-4770-a65f-15040a82fe54")
+		)
+		(pin "3"
+			(uuid "be56daa7-4b2a-446c-a5b2-cf6bbfbdd45a")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:1N4004")
+		(at 185.42 109.22 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f38ef77-b66c-43dc-87a6-c456d396e5d5")
+		(property "Reference" "CR2"
+			(at 185.9026 111.76 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1N4004"
+			(at 183.1086 111.76 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:DO41-10"
+			(at 185.42 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "da97717b-89f8-46ac-9a93-6c2bbe2fac67")
+		)
+		(pin "C"
+			(uuid "85ced412-1a7b-423c-930c-b6bae665a134")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "CR2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 58.42 205.74 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "224d940a-ccd5-4455-a6c2-aa7a4ae32fcd")
+		(property "Reference" "R6"
+			(at 62.23 207.2386 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "18K"
+			(at 62.23 202.438 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 58.42 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 58.42 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d83ea862-c71a-4eec-9877-fa9316c689c1")
+		)
+		(pin "2"
+			(uuid "68d8c8f9-3516-4d40-9f1b-31402aa17e77")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 137.16 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "24d1bbec-cb2e-4cdf-854c-78629f18adda")
+		(property "Reference" "R16"
+			(at 133.35 67.0814 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22k"
+			(at 133.35 71.882 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 137.16 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab102725-8a5f-487a-b368-a5197be56dce")
+		)
+		(pin "2"
+			(uuid "9b0699bb-c5c3-4c55-8edb-3e57ff34b0a4")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 114.3 101.6 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c37bb7c-6062-46c9-aeec-b87bceeea509")
+		(property "Reference" "C17"
+			(at 114.681 103.124 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "0.015"
+			(at 109.601 103.124 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 114.3 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f7dec4e-cd47-43e2-b330-500f7929e1c8")
+		)
+		(pin "2"
+			(uuid "89feca4c-257c-4ef0-8768-35e4849ec5d2")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 129.54 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "305823a0-1af9-4bf4-ab86-55faa7b2506e")
+		(property "Reference" "#SUPPLY4"
+			(at 129.54 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 78.74 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d619d27-6f38-4e19-a3f3-f56aea5cb078")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 48.26 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31265ff6-a6e4-428f-bc65-7627d00e73ca")
+		(property "Reference" "C1"
+			(at 48.895 56.896 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "33/10"
+			(at 44.069 56.896 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4cbd11e9-96c9-48fe-bc43-3b82981d7c04")
+		)
+		(pin "2"
+			(uuid "5e3e39f1-237b-4698-bd57-f8c64733629e")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:PNP-TRANSISTOR_SOT23")
+		(at 182.88 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "32589224-5f23-41c0-adf7-a3c3613ad81f")
+		(property "Reference" "Q6"
+			(at 172.72 180.34 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PNP-TRANSISTOR_SOT23"
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 182.88 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "086cef9e-fa6a-4d6b-8f50-519deba0bca0")
+		)
+		(pin "2"
+			(uuid "bf2bf9e1-646c-41b7-b256-dea449021087")
+		)
+		(pin "3"
+			(uuid "62aa050c-355f-4fb4-84f7-20e020dc8f00")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:NPN-TRANSISTOR_SOT23")
+		(at 142.24 203.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3764e203-fd34-484a-b7d9-ad971ebb7a02")
+		(property "Reference" "Q5"
+			(at 132.08 195.58 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "NPN-TRANSISTOR_SOT23"
+			(at 132.08 198.12 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 142.24 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5dac1b37-2a37-4adf-aede-02d7b45dd6be")
+		)
+		(pin "3"
+			(uuid "51e35e33-c6fb-4e4c-a477-4a1774d6862b")
+		)
+		(pin "2"
+			(uuid "1ebb5c2e-ed93-4aa9-8628-5aebb044b915")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:PNP-TRANSISTOR_SOT23")
+		(at 205.74 261.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b213b34-63ea-41a2-8d6d-738a5d5c5b94")
+		(property "Reference" "Q8"
+			(at 195.58 254 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PNP-TRANSISTOR_SOT23"
+			(at 195.58 256.54 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 205.74 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d5af404-aa55-4107-b55e-2f4786e14c6b")
+		)
+		(pin "2"
+			(uuid "8fd5fdf2-a5a6-4a5a-a521-7f3bd7b10f90")
+		)
+		(pin "3"
+			(uuid "20beb910-1ae5-4f24-8ae2-dc0f99302b98")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:+18V")
+		(at 91.44 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3eaf18db-9531-4a28-a2b3-dae06bde7d2d")
+		(property "Reference" "#P+2"
+			(at 91.44 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+18V"
+			(at 88.9 195.58 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 91.44 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7afedff-d7bc-415c-bb07-e020c8d4a22f")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#P+2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:1N4004")
+		(at 185.42 241.3 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "487c70f1-41ca-45a7-a904-f473126792fd")
+		(property "Reference" "CR4"
+			(at 185.9026 243.84 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1N4004"
+			(at 183.1086 243.84 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:DO41-10"
+			(at 185.42 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "92227290-01fc-44d6-a2b8-b19e9caa54ee")
+		)
+		(pin "C"
+			(uuid "4ca462e2-530f-4d80-ad3c-36f59c7dbc38")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "CR4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 208.28 246.38 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49a8ff45-539c-42a6-a680-85474289ce48")
+		(property "Reference" "R33"
+			(at 209.7786 242.57 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "6.8"
+			(at 204.978 242.57 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 208.28 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "958659fb-4a38-429d-9d6b-6d67bbbcac92")
+		)
+		(pin "2"
+			(uuid "8a3324c0-9800-4115-a1a6-d66b4cd7bc23")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 20.32 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4eb2c991-c698-40b4-8a16-e27c7c8cb4c2")
+		(property "Reference" "E1"
+			(at 19.177 54.0258 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 19.177 59.182 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 20.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 20.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a356030-7053-4119-9839-c9edbc10a308")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 116.84 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "50462c33-4cde-47b7-ba1c-64a8aaebd309")
+		(property "Reference" "R13"
+			(at 113.03 21.3614 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "390"
+			(at 113.03 26.162 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 116.84 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 116.84 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39efc3c5-0685-45b6-9e84-24d330c7bc59")
+		)
+		(pin "2"
+			(uuid "f838073b-f2bb-4d65-841f-ba38748671e8")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 185.42 269.24 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "517a1512-f224-438d-a0de-fd678d0e0c02")
+		(property "Reference" "R28"
+			(at 186.9186 265.43 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 182.118 265.43 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 185.42 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73199203-eb10-4a31-819e-d71724f07cdb")
+		)
+		(pin "2"
+			(uuid "b03366a6-aa7c-496a-8f33-e0feeb8dd3c2")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 144.78 175.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5754ad12-cd8a-4ec4-a4ad-1fcdd9d01f66")
+		(property "Reference" "R24"
+			(at 143.2814 179.07 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4K7"
+			(at 148.082 179.07 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 144.78 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8335cb14-6d98-4ada-986e-f7889f361b83")
+		)
+		(pin "2"
+			(uuid "21648852-d78b-44ec-b905-d59b16c4335d")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 109.22 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58e3a8eb-018f-4171-901a-508e64ec2817")
+		(property "Reference" "C5"
+			(at 110.744 65.659 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4.7p"
+			(at 110.744 70.739 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 109.22 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a723be66-e230-4012-9d1e-b657b15da734")
+		)
+		(pin "2"
+			(uuid "3fdeb8a6-f225-4abe-bd60-86f2fc811e6c")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 172.72 78.74 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5bc2c489-e9d3-4771-ab70-b04afec03cac")
+		(property "Reference" "C8"
+			(at 172.339 77.216 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "68p"
+			(at 177.419 77.216 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "156fc8bc-8f99-4240-8c36-c7f61c667205")
+		)
+		(pin "2"
+			(uuid "5e1b41c1-4af7-45cc-9338-5798d9f194bd")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 104.14 236.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5de5bf66-f1a9-4c7e-a500-07947f35cfe8")
+		(property "Reference" "R11"
+			(at 100.33 234.7214 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "16K"
+			(at 100.33 239.522 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 104.14 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c865caf7-5560-403a-b647-3d415ffb97a9")
+		)
+		(pin "2"
+			(uuid "86ebd9f3-59c5-4096-9281-e7b8acd53df2")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:LM201D")
+		(at 93.98 203.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e6aebd0-ef30-48e5-94e0-29b43a6a5b38")
+		(property "Reference" "IC2"
+			(at 96.52 197.485 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "LM201D"
+			(at 96.52 208.28 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SO08"
+			(at 93.98 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "054e6528-dc68-440d-bdca-151f2265c1df")
+		)
+		(pin "2"
+			(uuid "64aedfd1-da19-466f-a9cc-baec160a74bb")
+		)
+		(pin "7"
+			(uuid "9e834068-9df8-4ce9-a456-7861f9af4c84")
+		)
+		(pin "4"
+			(uuid "fa9eada4-324e-4ca7-828a-ee966398d622")
+		)
+		(pin "5"
+			(uuid "d6b449cd-19d5-4514-a284-b368622177ec")
+		)
+		(pin "8"
+			(uuid "46f6cd4f-77f9-4f1c-8193-8b81c09dec63")
+		)
+		(pin "1"
+			(uuid "60b5bf88-4b4e-4fcf-be28-64feb209cf5f")
+		)
+		(pin "6"
+			(uuid "faddd2f4-1ef5-435d-bd7c-019da598cb0b")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "IC2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 193.04 254 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e9d0aa3-95d8-47ba-8e80-c9e772c9a097")
+		(property "Reference" "R27"
+			(at 194.5386 250.19 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "470"
+			(at 189.738 250.19 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 193.04 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e83223d-7b5d-4bd2-b632-070fe50fb9dc")
+		)
+		(pin "2"
+			(uuid "0c71ac57-3b43-4e6d-9378-35b2c292c151")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 121.92 236.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ea89811-6352-4c14-b24b-9c18fcfe32e7")
+		(property "Reference" "R12"
+			(at 118.11 234.7214 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "2K"
+			(at 118.11 239.522 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 121.92 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 121.92 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d9c629d9-9657-42e3-9b23-040209d7ac68")
+		)
+		(pin "2"
+			(uuid "8cfd39bc-3d1e-40d4-9804-69d642374461")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 248.92 218.44 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "605a5ce5-0e4a-4061-9752-47510ea4152f")
+		(property "Reference" "C16"
+			(at 249.555 219.456 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "220/10"
+			(at 244.729 219.456 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 248.92 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 248.92 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8bfdfa9c-4b29-4276-8e1c-86e516c3dd6b")
+		)
+		(pin "2"
+			(uuid "62f0cf90-4abd-4ff2-aa8c-fdcac1808eda")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 294.64 218.44 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61a0a15b-78fd-491c-8171-823f210bfcfe")
+		(property "Reference" "E6"
+			(at 295.783 220.2942 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 295.783 215.138 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 294.64 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 294.64 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 294.64 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fa78b41-594d-4f7c-8db2-f173aadbac75")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 86.36 307.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63f650d0-19d8-4e5b-bc31-06c144cb5155")
+		(property "Reference" "#GND1"
+			(at 86.36 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 83.82 309.88 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c81abd3a-c3fd-4645-a330-60d19979c80e")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#GND1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 297.18 22.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7135c26d-be07-45cd-b9d9-b0ec374c3e32")
+		(property "Reference" "E3"
+			(at 298.323 24.7142 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 298.323 19.558 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 297.18 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 297.18 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 297.18 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8dd4de49-14b8-4ec8-ad96-3f96bf252451")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:1N4004")
+		(at 185.42 254 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "778c8c5e-ad01-4517-8da7-41fea66ae5c9")
+		(property "Reference" "CR3"
+			(at 185.9026 256.54 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1N4004"
+			(at 183.1086 256.54 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:DO41-10"
+			(at 185.42 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "18f90ab8-11d6-4d94-9218-57ff9059464e")
+		)
+		(pin "C"
+			(uuid "a80b7788-411d-4a61-92dc-a5050dc6f608")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "CR3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:-18V")
+		(at 71.12 292.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78498ca6-a5c3-4488-beed-e461fba34fa8")
+		(property "Reference" "#P-1"
+			(at 71.12 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-18V"
+			(at 68.58 289.56 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "759c9380-a262-4a37-96f5-0792c525e467")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#P-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 45.72 205.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ad3b2bd-edd9-4daf-991c-4039fbf81043")
+		(property "Reference" "C2"
+			(at 46.355 206.756 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "33/10"
+			(at 41.529 206.756 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 45.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fde9a485-0165-4b08-8de5-1f8c4da71664")
+		)
+		(pin "2"
+			(uuid "0f936d05-519c-4852-8f14-e62de8f26fce")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 167.64 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7b1a59b0-7ec3-4e66-bb9b-79df0ad32dd8")
+		(property "Reference" "C9"
+			(at 168.656 98.425 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10/25"
+			(at 168.656 103.251 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 167.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d0e727de-4ce8-430a-96f6-f2a91062477c")
+		)
+		(pin "2"
+			(uuid "1d59c5ed-c43f-480f-90eb-71e41dae10b9")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:NPN-TRANSISTOR_SOT23")
+		(at 205.74 195.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7e77ce86-7247-4111-877f-ec10a2765d44")
+		(property "Reference" "Q7"
+			(at 195.58 187.96 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "NPN-TRANSISTOR_SOT23"
+			(at 195.58 190.5 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 205.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2fc10f0c-abd4-4cc5-95b6-20410ba79a81")
+		)
+		(pin "3"
+			(uuid "a5588205-7c29-46a6-97a4-63349ecaf212")
+		)
+		(pin "2"
+			(uuid "3eaad75b-b225-4281-98e2-3fd72d4c13ae")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:+24V")
+		(at 226.06 167.64 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f4c44ee-560d-422a-85e8-b05be26fe03a")
+		(property "Reference" "#P+3"
+			(at 226.06 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+24V"
+			(at 220.98 165.1 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "503d17c3-fb8a-494b-9be5-e7e6dd55cf62")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#P+3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 81.28 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "818992af-1f7b-4625-a3f6-5b750f711502")
+		(property "Reference" "C3"
+			(at 82.296 32.385 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10/25"
+			(at 82.296 37.211 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 81.28 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3440960-fbd0-4665-8945-05d2349f4e80")
+		)
+		(pin "2"
+			(uuid "477ca61c-dbca-45be-b9fa-f843b70fe4fa")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 162.56 213.36 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d77db67-ffcd-41fa-8816-ac26945cc312")
+		(property "Reference" "R25"
+			(at 166.37 214.8586 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22K"
+			(at 166.37 210.058 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 162.56 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "038de0ee-e3b5-4c1f-9e49-733c6a7aa3b2")
+		)
+		(pin "2"
+			(uuid "05d6eb7f-1f38-45f7-8f8b-2ac14b5705a4")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 162.56 68.58 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8eff2721-f579-49b4-a492-5897455e5403")
+		(property "Reference" "R18"
+			(at 166.37 70.0786 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22K"
+			(at 166.37 65.278 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "058340b0-0089-4ea5-b0ef-7ee7d5696865")
+		)
+		(pin "2"
+			(uuid "8c518999-b052-4f96-96fd-840c706caee6")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 185.42 124.46 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "92db2997-8795-471b-8308-6f7dfb9094cc")
+		(property "Reference" "R21"
+			(at 186.9186 120.65 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 182.118 120.65 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 185.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d333338c-3187-4cb5-a328-8125616c7064")
+		)
+		(pin "2"
+			(uuid "49af6cb2-9c97-4536-8f2a-f3447b408b0b")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 264.16 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "92fbbda0-bff6-4c8f-9c1a-cee184eebecc")
+		(property "Reference" "#SUPPLY6"
+			(at 264.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 261.62 160.02 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 264.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02d041fc-96b0-4411-ad38-99978153cfc8")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 35.56 152.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "96a63cdb-5034-44cc-80f5-8438e77d5039")
+		(property "Reference" "R2"
+			(at 34.0614 156.21 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "47K"
+			(at 38.862 156.21 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 35.56 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6bb533d5-ad28-4956-912c-e011ef53251e")
+		)
+		(pin "2"
+			(uuid "9449dd5e-fb1d-4710-ba13-350af357ef0c")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:1N4004")
+		(at 185.42 96.52 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97dde503-6ff7-4f42-bafe-3cb08a7019b8")
+		(property "Reference" "CR1"
+			(at 185.9026 99.06 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1N4004"
+			(at 183.1086 99.06 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:DO41-10"
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "708ac48c-a846-4ab1-a6a9-3c8ae84c04d6")
+		)
+		(pin "C"
+			(uuid "408acd05-45b8-444b-81fb-853958b37363")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "CR1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 172.72 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9820c02d-5c3a-4955-bd43-aeb018603afc")
+		(property "Reference" "C7"
+			(at 172.339 56.896 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10p"
+			(at 177.419 56.896 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 172.72 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d0f2512-48b7-4091-9cd6-a632666d8a35")
+		)
+		(pin "2"
+			(uuid "d3718231-ccda-4da1-a450-dbb3f1d391f2")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 185.42 284.48 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9a944b10-dc40-4840-a96c-619b02253a2a")
+		(property "Reference" "R29"
+			(at 186.9186 280.67 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 182.118 280.67 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 185.42 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39c123ac-4774-49a6-8188-dc4cc31da197")
+		)
+		(pin "2"
+			(uuid "e84504e4-fecd-40bd-baaf-12bc25ee6bc7")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 76.2 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c20d9dc-929c-40da-b333-11af6c72a6d9")
+		(property "Reference" "#SUPPLY2"
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 142.24 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "33dd377b-9f9c-4ebc-9c31-b6f155d5e436")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:LM201D")
+		(at 93.98 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a2aca65b-be72-43f2-b694-5ce8aeda53ac")
+		(property "Reference" "IC1"
+			(at 96.52 52.705 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "LM201D"
+			(at 96.52 63.5 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SO08"
+			(at 93.98 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "4a084418-4ea5-4962-b620-a5a706b69284")
+		)
+		(pin "2"
+			(uuid "7b255b57-f489-4933-a79b-bb9e63cc184b")
+		)
+		(pin "7"
+			(uuid "59bb11ed-4441-4bd0-8ddc-5dcd169f0b9e")
+		)
+		(pin "4"
+			(uuid "6cd5ab40-9bd5-43a5-8a74-c93bf5161d2b")
+		)
+		(pin "5"
+			(uuid "edd05a99-bd83-4b01-b538-8d468f6aa984")
+		)
+		(pin "8"
+			(uuid "499545f6-9fdc-4fd7-8c88-13022dbfcee6")
+		)
+		(pin "1"
+			(uuid "77e280b9-6813-427a-ab35-91e6df377ad1")
+		)
+		(pin "6"
+			(uuid "555485a6-9e60-464d-8af3-2b123c2d712e")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "IC1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 71.12 124.46 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a409f3f6-02e1-449b-ad72-200e501ec5b0")
+		(property "Reference" "R7"
+			(at 72.6186 120.65 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "470"
+			(at 67.818 120.65 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 71.12 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "12536689-c477-479e-8665-7f2c95e40b31")
+		)
+		(pin "2"
+			(uuid "77389fdf-7cd7-4f35-8769-3cb53175875f")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 129.54 220.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a480e12d-5acd-440c-bc07-811ee8b9a64d")
+		(property "Reference" "#SUPPLY5"
+			(at 129.54 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 223.52 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d279048a-3e0d-46cf-8146-005429cefcdc")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 167.64 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b4c71cd3-c501-4965-a1d1-5705d6b69267")
+		(property "Reference" "C14"
+			(at 168.656 243.205 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10/25"
+			(at 168.656 248.031 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 167.64 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bccccde2-77b9-4dca-b43a-862057f30018")
+		)
+		(pin "2"
+			(uuid "3a623e59-c5a3-4d4a-ac13-9718dd6bc491")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 35.56 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b4def0ac-6597-4958-b4ca-1f6e00fad51a")
+		(property "Reference" "R1"
+			(at 34.0614 128.27 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "47K"
+			(at 38.862 128.27 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 35.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "712c9404-7273-4621-9130-48360c5a8fed")
+		)
+		(pin "2"
+			(uuid "b784012f-39ba-4c38-a9fc-0976f8946600")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 223.52 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b650f331-e471-45ad-83c9-9868105b6297")
+		(property "Reference" "R35"
+			(at 219.71 216.9414 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "5.6"
+			(at 219.71 221.742 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 223.52 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91be0c15-c108-47dc-b955-22c818dd2a35")
+		)
+		(pin "2"
+			(uuid "1f9f0fed-ed09-4f72-b756-620243370340")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 66.04 55.88 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b756dd6b-ae1b-4b1f-9475-a3c2b83b7dfe")
+		(property "Reference" "R5"
+			(at 69.85 57.3786 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4K7"
+			(at 69.85 52.578 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 66.04 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9582c573-d508-4180-b2b1-000bae86d018")
+		)
+		(pin "2"
+			(uuid "fe3c3a71-88c2-427e-9932-044c2455283b")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 71.12 152.4 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bc4ed413-656a-4857-a97d-6109d2bbaabf")
+		(property "Reference" "R8"
+			(at 72.6186 148.59 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "470"
+			(at 67.818 148.59 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 71.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e3b44f6d-13d7-42dc-8cbf-ae6cfaff039c")
+		)
+		(pin "2"
+			(uuid "6494e25c-712b-4d32-8ed6-b86e5f7d03d7")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:PNP-TRANSISTOR_SOT23")
+		(at 182.88 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd1052f6-1822-4947-9c92-1824b737a5ad")
+		(property "Reference" "Q2"
+			(at 172.72 35.56 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PNP-TRANSISTOR_SOT23"
+			(at 172.72 38.1 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SOT23"
+			(at 182.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9973755-c9dc-49a7-aa2d-ea6385e65edb")
+		)
+		(pin "2"
+			(uuid "bb3f3f21-da0c-4d3f-a2bd-59b2775d2d5d")
+		)
+		(pin "3"
+			(uuid "76799cdd-0759-4d3d-b96b-9c85b62b3ff1")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 83.82 231.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "be2ffc14-a533-43cd-a3ef-7e48eb17c584")
+		(property "Reference" "C11"
+			(at 83.439 229.616 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4.7p"
+			(at 88.519 229.616 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 83.82 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 83.82 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42769efc-594d-43ba-9549-6444d189f226")
+		)
+		(pin "2"
+			(uuid "9172bda9-1c75-4609-83d0-090b8c4f14fe")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 81.28 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "be98108b-57a1-48b8-a636-8daa639e1419")
+		(property "Reference" "#SUPPLY3"
+			(at 81.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 78.74 43.18 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f26b83bb-9be2-4484-9e24-13589c1dd41a")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 137.16 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf062fd0-b165-4911-a79f-cd99739f17ae")
+		(property "Reference" "R10"
+			(at 133.35 89.9414 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "2k"
+			(at 133.35 94.742 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fdbb52b0-d4f0-4223-88f6-07cf6683ae0a")
+		)
+		(pin "2"
+			(uuid "35f31ce1-3db8-49e5-b070-14b5ee9450ce")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 254 73.66 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c0cafa62-f310-46b3-9912-51a664d37d57")
+		(property "Reference" "C15"
+			(at 254.635 74.676 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "220/10"
+			(at 249.809 74.676 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 254 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 254 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60f601f7-795b-405c-b3d1-ebcb32c7e600")
+		)
+		(pin "2"
+			(uuid "70460a34-450d-4ed8-ab0b-b64f8004633f")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 172.72 203.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c22d5b70-aeb3-449b-8a32-3b0fbbc85e13")
+		(property "Reference" "C12"
+			(at 172.339 201.676 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10p"
+			(at 177.419 201.676 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 172.72 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "978c2677-155f-4bb2-979e-e9e911235763")
+		)
+		(pin "2"
+			(uuid "9e049366-e5f5-414c-867f-b523ae9b1dad")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 259.08 167.64 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c47f14f9-335e-4241-b15a-c913b55545fe")
+		(property "Reference" "R37"
+			(at 260.5786 163.83 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 255.778 163.83 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 259.08 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95a562f8-76bb-41b6-b404-5e57d54f6081")
+		)
+		(pin "2"
+			(uuid "9a60446d-ab5c-42aa-b0a8-9eee24c6674c")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:GND")
+		(at 287.02 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c536eeb5-80b0-4b31-9260-dc1c1b54e556")
+		(property "Reference" "#SUPPLY7"
+			(at 287.02 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 284.48 160.02 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 287.02 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72dfaa8f-8679-4166-9959-e80f0ae47083")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#SUPPLY7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C-USC0805")
+		(at 86.36 299.72 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c75a517f-4315-4f51-a8a9-f2346326e27d")
+		(property "Reference" "C4"
+			(at 85.344 300.355 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10/25"
+			(at 85.344 295.529 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C0805"
+			(at 86.36 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09abc548-b612-423e-937e-0e31b1cb1bb9")
+		)
+		(pin "2"
+			(uuid "8c2e655e-d844-4dae-ba2c-b20b95f5df36")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 144.78 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c80e75bc-4754-4e4b-913b-341236f84398")
+		(property "Reference" "R17"
+			(at 143.2814 34.29 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4K7"
+			(at 148.082 34.29 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 144.78 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44152189-29e0-41b9-a845-04c7de7f065c")
+		)
+		(pin "2"
+			(uuid "d92c1a6a-79ba-4214-952b-5a5f6580fc81")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 294.64 154.94 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c90aa4e0-4494-4b4b-8d88-a92cc9ddf51c")
+		(property "Reference" "E5"
+			(at 295.783 156.7942 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 295.783 151.638 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 294.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 294.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 294.64 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9b8754c-bb58-4233-8b5b-49f2762c9af9")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:-18V")
+		(at 91.44 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cade1896-d5f9-40cd-af95-17863ed92ed9")
+		(property "Reference" "#P-3"
+			(at 91.44 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-18V"
+			(at 88.9 71.12 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 91.44 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb409e08-82e7-4bdb-b554-8074df1a8ea1")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#P-3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:C2.5/5")
+		(at 172.72 223.52 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cc33cf29-f83d-4f18-9672-6ba2a39bd2d3")
+		(property "Reference" "C13"
+			(at 172.339 221.996 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "68p"
+			(at 177.419 221.996 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:C2.5-5"
+			(at 172.72 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4a66ade-5343-4b09-98e3-a794382fdb5f")
+		)
+		(pin "2"
+			(uuid "889c7b3c-450b-4a4b-ba0d-ea77887c3ba8")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 294.64 292.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cd171425-eca8-4724-8391-e10af39e8f30")
+		(property "Reference" "E7"
+			(at 295.783 293.9542 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 295.783 288.798 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 294.64 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 294.64 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 294.64 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76226754-0b0c-4888-8977-601d5e415681")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 259.08 142.24 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d0a85107-118a-4aaa-ac05-db965461fb38")
+		(property "Reference" "R36"
+			(at 260.5786 138.43 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 255.778 138.43 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 259.08 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02568428-d566-41d1-bbff-99e39038e4d9")
+		)
+		(pin "2"
+			(uuid "637e2d09-7147-464f-aaef-22fa6e6aa15c")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:+18V")
+		(at 66.04 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d66e8ae9-b8cc-4d80-882f-bafef240509c")
+		(property "Reference" "#P+1"
+			(at 66.04 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+18V"
+			(at 71.12 25.4 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.04 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90657938-acae-4fb0-9b85-6271fc2dc9a8")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#P+1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 185.42 177.8 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d7cbfacb-d34e-49bd-8520-7489b99f9f79")
+		(property "Reference" "R26"
+			(at 186.9186 173.99 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "22"
+			(at 182.118 173.99 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 185.42 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60e3c492-78d7-42d7-909e-0f2bf1c63e61")
+		)
+		(pin "2"
+			(uuid "ac7cb253-db13-496b-88da-bd528addcb52")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 208.28 68.58 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d7d0f6b1-11f7-44ea-a276-914dc938ff12")
+		(property "Reference" "R30"
+			(at 209.7786 64.77 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "6.8"
+			(at 204.978 64.77 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7e779c9-8e00-43f7-8b4a-a7deea0ac3b6")
+		)
+		(pin "2"
+			(uuid "8c689f9b-d742-4d97-a666-ffd1d43b56b5")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 193.04 109.22 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d86e6537-58cc-4838-af13-602708a992f5")
+		(property "Reference" "R20"
+			(at 194.5386 105.41 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "470"
+			(at 189.738 105.41 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 193.04 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da0a4818-9f12-4ea3-b3c4-b3783acdc857")
+		)
+		(pin "2"
+			(uuid "5fdcdf91-7142-41e8-ac2b-4fd713d52bd9")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 91.44 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f09c584c-e796-4494-a59c-6f3f1f593aa1")
+		(property "Reference" "R38"
+			(at 87.63 100.1014 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1M"
+			(at 87.63 104.902 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 91.44 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54961909-efee-460d-aca0-d7391d9a658a")
+		)
+		(pin "2"
+			(uuid "b485ef6f-ecac-437e-934a-4f02cfd691b8")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 147.32 292.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f903c25f-265a-49f2-a40d-56219fe02ad0")
+		(property "Reference" "R14"
+			(at 143.51 290.6014 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "390"
+			(at 143.51 295.402 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 147.32 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e15db73-239a-45e6-b9ff-28225a3e811e")
+		)
+		(pin "2"
+			(uuid "71a3e0bb-c22d-4487-a737-af73d3392f2b")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 297.18 73.66 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9e2913b-9094-420d-9fe7-5b153a9681e3")
+		(property "Reference" "E4"
+			(at 298.323 75.5142 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 298.323 70.358 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 297.18 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 297.18 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 297.18 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "533cd94c-7db5-4f81-8c4b-75d9abf0c71a")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 223.52 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fdbe6788-b48d-468e-b45a-f3d63db5a4e8")
+		(property "Reference" "R34"
+			(at 219.71 72.1614 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "5.6"
+			(at 219.71 76.962 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f03a9baa-3d0c-4323-b61e-4ef8f179985c")
+		)
+		(pin "2"
+			(uuid "2e6cc6bd-4447-4c37-af87-bae44c6e19c6")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:SMD2")
+		(at 17.78 205.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fdfa3b9d-c6ba-4b6e-a627-d4043d7ea743")
+		(property "Reference" "E2"
+			(at 16.637 203.8858 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD2"
+			(at 16.637 209.042 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:SMD1,27-2,54"
+			(at 17.78 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 17.78 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95b78a0b-4659-48c2-a95c-ea130eb8aeed")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "E2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:R-US_R0805")
+		(at 114.3 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe20b950-7672-4393-b7d9-4ddb90ed476c")
+		(property "Reference" "R9"
+			(at 110.49 89.9414 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "75k"
+			(at 110.49 94.742 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "M466_M462B_Output_Amplifier:R0805"
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "64566525-c589-4344-8a33-d1445ecb9362")
+		)
+		(pin "2"
+			(uuid "f6768ab9-6f23-42d2-ae5b-77ee039265d5")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M466_M462B_Output_Amplifier-eagle-import:-24V")
+		(at 226.06 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe6ed00e-8387-4bb7-95ed-bf987dbd4b6b")
+		(property "Reference" "#P-2"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-24V"
+			(at 228.6 147.32 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63af52eb-4cf1-45bf-a322-35902b2b880d")
+		)
+		(instances
+			(project "M466_M462B_Output_Amplifier"
+				(path "/7af92b62-8de9-4441-abc9-27806cf3e7b7"
+					(reference "#P-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
