@@ -1,17 +1,17 @@
-# M462B · Filters
+# M462B Equalizer Module · Filters
 
 Ward-Beck Systems M462B, 1974|7. Wiki page: [M462B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M462B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 276 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 27 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 79 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 277 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 26 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 3 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 76 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -95,16 +95,14 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ3o5RHh4cEk4Tkk/view?resourcekey=0-mB7i3mH5x3HjPN81J7L-QA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ3o5RHh4cEk4Tkk&resourcekey=0-mB7i3mH5x3HjPN81J7L-QA" width="240" alt="1974 - M462B - wbsps - module - m462b equalizer 011.jpg"></a><br><sub>1974|7 · wbsps - module - m462b equalizer 011</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1974|7 · 2_small](https://drive.google.com/file/d/0B0yR0b5T78SKdlB3bXpnZ1B6VnM/view?resourcekey=0-5zAGU3yMsxndFbBU7oJNTg) · [1974|7 · wbsps - module - m462b equalizer 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKcDREX01iNGEzQTA/view?resourcekey=0-FI7B-VN7P5IsPGFg-VlPMw) · [1974|7 · wbsps - module - m462b equalizer 003_small](https://drive.google.com/file/d/0B0yR0b5T78SKMnJybnBpdjhoUjQ/view?resourcekey=0-yfJs3pta-c8yrXCsRSZzJA) · [1974|7 · wbsps - module - m462b equalizer 004_small](https://drive.google.com/file/d/0B0yR0b5T78SKQ2c4MHJJLUotdGs/view?resourcekey=0-zkQB98rydWdHwjrMFjQbEQ) · [1974|7 · wbsps - module - m462b equalizer 005_small](https://drive.google.com/file/d/0B0yR0b5T78SKeXpLbGQwVjJqcVU/view?resourcekey=0-F4jBwZD3ykOnlAoKSoNSjA) · [1974|7 · wbsps - module - m462b equalizer 006_small](https://drive.google.com/file/d/0B0yR0b5T78SKODRVbVNDUXhrTkk/view?resourcekey=0-vJ4xL7AdMbp2RiSpwJ_wbg) · [1974|7 · wbsps - module - m462b equalizer 007_small](https://drive.google.com/file/d/0B0yR0b5T78SKNjgtd0pPS21uSTA/view?resourcekey=0-rni-VlAH3AXaJSAkJdd2bg) · [1974|7 · wbsps - module - m462b equalizer 008_small](https://drive.google.com/file/d/0B0yR0b5T78SKTlZxVlZ4ekhWaGc/view?resourcekey=0-DgF1oKui2pI8dCfYyqebIw) · [1974|7 · wbsps - module - m462b equalizer 009_small](https://drive.google.com/file/d/0B0yR0b5T78SKOU5lbTNZRGJENWs/view?resourcekey=0-3MBAc1dBmokj-HuYKoUsFg) · [1974|7 · wbsps - module - m462b equalizer 010_small](https://drive.google.com/file/d/0B0yR0b5T78SKQUYwUzM3M2ZkWTA/view?resourcekey=0-gHfY9n3eIvzBqToMTHoLOA) · [1974|7 · wbsps - module - m462b equalizer 011_small](https://drive.google.com/file/d/0B0yR0b5T78SKN3RtQVVZdElleFE/view?resourcekey=0-GssDu5sF-e0hPupakWsE_g)
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNjc0RGR6Zm9kaXc/view?resourcekey=0-QBNbVkk6vuTm3UWryvtMeA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNjc0RGR6Zm9kaXc&resourcekey=0-QBNbVkk6vuTm3UWryvtMeA" width="240" alt="1974 - M462B - 462-01-003 - BOOST- CUT BOOST- CUT BOOSTI CUT BOOST- CUT.jpg"></a><br><sub>1974|7 · 462-01-003 - BOOST- CUT BOOST- CUT BOOSTI CUT BOOST- CUT · <a href="SCHEMATICS/1974%20-%20M462B%20-%20462-01-003%20-%20BOOST-%20CUT%20BOOST-%20CUT%20BOOSTI%20CUT%20BOOST-%20CUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKa0VHbDhUcFpfSTg/view?resourcekey=0-VuJA9_kZPYGnoH1Ig0m-Cw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKa0VHbDhUcFpfSTg&resourcekey=0-VuJA9_kZPYGnoH1Ig0m-Cw" width="240" alt="1974 - M462B - 462-02-003 - EQUAI IZER MODULE SCHEMATIC.jpg"></a><br><sub>1974|7 · 462-02-003 - EQUAI IZER MODULE SCHEMATIC · <a href="SCHEMATICS/1974%20-%20M462B%20-%20462-02-003%20-%20EQUAI%20IZER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMVprNHU3eUxPMzA/view?resourcekey=0-d_4pDRJ4_TQ-PFztFNbwSg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMVprNHU3eUxPMzA&resourcekey=0-d_4pDRJ4_TQ-PFztFNbwSg" width="240" alt="1974 - M462B - 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1974|7 · 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1974%20-%20M462B%20-%20462-02-003%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm9uSzNYWUo3UGc/view?resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm9uSzNYWUo3UGc&resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" width="240" alt="1974 - M462B - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1974|7 · 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1974%20-%20M462B%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekUzcTBPckZ2RW8/view?resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekUzcTBPckZ2RW8&resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" width="240" alt="1974 - M462B - P37 - Output Amp Layout.jpg"></a><br><sub>1974|7 · P37 - Output Amp Layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZnQ4TjlJOFFvb2c/view?resourcekey=0-KjemoGac7hB17jm9DM6TwQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZnQ4TjlJOFFvb2c&resourcekey=0-KjemoGac7hB17jm9DM6TwQ" width="240" alt="1974 - M462B - P38 - EQ Filer Schematic.jpg"></a><br><sub>1974|7 · P38 - EQ Filer Schematic</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVS0wd2NTWUxOcGc/view?resourcekey=0-mW8uxUiiFhHN_ecwPGQEZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVS0wd2NTWUxOcGc&resourcekey=0-mW8uxUiiFhHN_ecwPGQEZA" width="240" alt="1974 - M462B - P39 - EQ Filter Layout.jpg"></a><br><sub>1974|7 · P39 - EQ Filter Layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1px2RB2EpB9rkDYjie324O0Zj1QUMZyUW/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1px2RB2EpB9rkDYjie324O0Zj1QUMZyUW" width="240" alt="1976 - M462B - Equalizer Module Functional.pdf"></a><br><sub>1976|9 · Equalizer Module Functional</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm9uSzNYWUo3UGc/view?resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm9uSzNYWUo3UGc&resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" width="240" alt="1974 - M462B - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1974|7 · 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1974%20-%20M462B%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekUzcTBPckZ2RW8/view?resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekUzcTBPckZ2RW8&resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" width="240" alt="1974 - M462B - P37 - Output Amp Layout.jpg"></a><br><sub>1974|7 · P37 - Output Amp Layout · <a href="SCHEMATICS/1974%20-%20M462B%20-%20P37%20-%20Output%20Amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZnQ4TjlJOFFvb2c/view?resourcekey=0-KjemoGac7hB17jm9DM6TwQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZnQ4TjlJOFFvb2c&resourcekey=0-KjemoGac7hB17jm9DM6TwQ" width="240" alt="1974 - M462B - P38 - EQ Filer Schematic.jpg"></a><br><sub>1974|7 · P38 - EQ Filer Schematic · <a href="SCHEMATICS/1974%20-%20M462B%20-%20P38%20-%20EQ%20Filer%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVS0wd2NTWUxOcGc/view?resourcekey=0-mW8uxUiiFhHN_ecwPGQEZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVS0wd2NTWUxOcGc&resourcekey=0-mW8uxUiiFhHN_ecwPGQEZA" width="240" alt="1974 - M462B - P39 - EQ Filter Layout.jpg"></a><br><sub>1974|7 · P39 - EQ Filter Layout · <a href="SCHEMATICS/1974%20-%20M462B%20-%20P39%20-%20EQ%20Filter%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1px2RB2EpB9rkDYjie324O0Zj1QUMZyUW/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1px2RB2EpB9rkDYjie324O0Zj1QUMZyUW" width="240" alt="1976 - M462B - Equalizer Module Functional.pdf"></a><br><sub>1976|9 · Equalizer Module Functional</sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M462B - P34 - Component Layout.jpg`
@@ -114,7 +112,7 @@ Not on Google Drive yet: `M462B - P34 - Component Layout.jpg`
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1974 - M462B - P35 - Pin Out.jpg"></a><br><sub>1974|7 · P35 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1974 - M462B - P35 - Pin Out.jpg"></a><br><sub>1974|7 · P35 - Pin Out · <a href="PINOUTS/1974%20-%20M462B%20-%20P35%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M462B - RTO-144 Connections.pdf`
@@ -175,13 +173,19 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1974 - M462B - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1974%20-%20M462B%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC.kicad_sch)
 - [1974 - M462B - EQ Module p24.kicad_sch](KICAD/1974%20-%20M462B%20-%20EQ%20Module%20p24.kicad_sch)
 - [1974 - M462B - EQ Module p33.kicad_sch](KICAD/1974%20-%20M462B%20-%20EQ%20Module%20p33.kicad_sch)
+- [1974 - M462B - P38 - EQ Filer Schematic.kicad_sch](KICAD/1974%20-%20M462B%20-%20P38%20-%20EQ%20Filer%20Schematic.kicad_sch)
 - [1976 - M462B - EQ Module p33.kicad_sch](KICAD/1976%20-%20M462B%20-%20EQ%20Module%20p33.kicad_sch)
 - [1976 - M462B - EQ Module p34.kicad_sch](KICAD/1976%20-%20M462B%20-%20EQ%20Module%20p34.kicad_sch)
 - [1976 - M462B - EQ Module p36.kicad_sch](KICAD/1976%20-%20M462B%20-%20EQ%20Module%20p36.kicad_sch)
+- [2021 - M462B - Final (APK Eagle, converted)](KICAD/2021%20-%20M462B%20-%20Final%20(APK%20Eagle%2C%20converted))
+- [2021 - M466 and M462B - Output Amplifier (APK Eagle, converted)](KICAD/2021%20-%20M466%20and%20M462B%20-%20Output%20Amplifier%20(APK%20Eagle%2C%20converted))
 - [M462B.kicad_sym](KICAD/M462B.kicad_sym)
+- [index.html](KICAD/index.html)
 
 ## Software
 
+- [cpp](SOFTWARE/cpp)
+- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
