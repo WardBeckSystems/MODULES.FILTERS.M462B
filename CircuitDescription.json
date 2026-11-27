@@ -1,0 +1,56 @@
+{
+ "module": "M462B",
+ "source": {
+  "file": "MANUALS/1976 - M462B - EQ Module.pdf",
+  "pages": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Input The input signa 1 enters the M4628 module via pins and 2 of the edge connector 21 and 22 serve a $ the preamplifier R26 i$ part of the preamp circuit and 15 used to set the overall equalizer gain to unity The output of the preamplifier is routed directly to one of the norma ] Iy closed contacts of the INSERT switch Sw3 to a ] ow bypass ing of the equalizer. Additiona Tly the preaMp output is fed to 23 the first of four cascaded summing amplifiers 23 through 26,_ Signal processing 23 through 26 serve a 5 mixing and isolation amplifiers They are used to Mix the prii mary nput s igna] with correction signa| derived from the outputs of the 4-112 filter networks resulting in raising or lowering the Teve 1 of selected portions of the audio spectrum Additionally, they isolate the filter networks from each other and Prevent interaction between them, resulting inaccurate and repeatable equalizing performance. The cut/boost controls R] 3 RI4 RI5 and RI6 feed an in-phase or out-of-phase Proportional signa to the buffer amplifiers 27 28 29 and 210 respectively The Teve] of the signa 1 fed to the buffers 7 $ dependent on the cut/boost contro] setting with maximum Teve] occurring at either end of the potentiometer and null setting at the Potentiometer mid-position Full clockwise or full counterclockwise potentiometer settings will result in the maximum equalization excursions of +15 dB and -15 dB respectively The outputs of buffer amplifiers 27 28 29 and 210 are routed to the 4-112 printed circuit board which contains four band pas $ filters corresponding to each of the four sections of the equalizer Each band-pas $ filter passes oly portion of the 5 1 gna 1 delivered to it from the buffer with the center frequency and band width determined by the FREQUENCY, Q\" and PEAK/SHELF controls",
+    "HIGH FREQUENCY equalization i5 continuously adjustable from 1.6 to 25 kHz and is controlled by R1/R2 R13 determines the amount of CUt or Boost A tota] range from -15 to +15 dB is provided With SW1 depressed the unit Will produce high frequency SHELVING characteristic When SW1 i$ released both positive or negative PEAKING can be obtained The Q control R3 is effective only with SW1 in the PEAKING mode and covers Q-factor range of 2 to 10 The MID FREQUENCY range i5 divided into two separate bands named MFl and MF2 MF 1 equalization i5 adjusted by R4/R5 covering frequency range from 0.8 to 12.8 kHz. Cut/Boost is contro]ed by R14 Q by R6 MF2 covers range from 0.1 kHz, adjustable selected to 1.6 by R7 / R8 CUt/Boost i$ by R15 and R9 controls the Q-factor Only positive and negative be]-shaped PEAKING equalization is applicable in the MID FREQUENCY ranges The Low FREQUENCY equalization operates similarly to the high frequency section R10/ R1l adjusts the frequency range from 25 to 400 Hz Cut or BOosT are controlled by R16 Q by R12 and Swz determines the choice of either SHELVING or PEAKING characteristics The four signa 1 $ which Leave the 4-112 filter are correction signa ] s either in phase or 180 degrees out of phase with the equalizer input and band pas 5 Limited a $ determined by the equalizer section and contro] settings These correction signa ] 5 are then summed together with the primary (input) signa 1 by the operational amplifiers 23, 24, 25 and 26 thus forming the equalized output signa 1 This concept of adding correction signa } together with the incoming s igna 1 to form the equalized signa ] is directly re spots ible for the Tow noise and distortion capabilities of this unit_ Output The compounds igna 1 a $ generated along the entire processing chain appears at the output of 26 From here it is routed to one of the norma 1ly open contacts of the INSERT switch Sw3"
+   ]
+  },
+  {
+   "heading": "CIRCUIT_DESCRIPIION",
+   "paragraphs": [
+    "Thus with SW3 depressed, the equalized s igna 7 is fed to the output amplifier 8-1094 In addition, a $ Sw3 is depressed, the LED indicator is activated Transient free operation of the insertion pushbutton is ensured by employing make-before-break switch configuration The output of the 8 -1094 is actively balanced and i5 brought out at Pins 15 and 16 of the edge connector. Power_Supply Decoupl 1ng An active power supply decoupling network consisting of Q1 through Q6' provides high degree of isolation between the M4628 and the 125 volt supply rails Transistors Q5 and 06 serve a 5 current monitors and will Limit the current flow ing through the pa 5 5 transistors Q3 and 04 in the event that excess 7 ve power supply demands should arise a$ result of component failure",
+    "LOW_FREQUENCY_section Mode: SHELVING CUT/Boost: +15 dB. FREQUENCY 25 & 400 Hz. 20Hz oohz",
+    "Jok zok Jk40r",
+    "LOW_FREQUENCY_section Mode: PEAKING_ CUt/boost: +15 dB FREQUENCY: 25 & 400 Hz. Q: 2 20Hz HOoHz",
+    "10k 20 30k 40k"
+   ]
+  },
+  {
+   "heading": "FREQUENCY RESPONSE CHARACTERISTICS",
+   "paragraphs": [
+    "MID FREQUENCY section MF2 Boost: +3 to +15 dB in 3 dB steps. Q: 2 CUt: -6 & -15 dB Q 10 FREQUENCY: 0.1 & 1.6 kHz 20Hz IOOAz iok Z0k 30k40k",
+    "MID FREQUENCY section MFL CUT/Boost: 115 dB FREQUENCY: 0.8 & 12.8 kHz -15 20h1 1QdHz JkHz ok 206 30k 40k",
+    "HIGH_FREQUENCY section Mode SHELVING_ CUt/ Boost: 115 dB FREQUENCY: 1.6 & 25 kHz _ 20Hz JCOHz"
+   ]
+  },
+  {
+   "heading": "ILHI",
+   "paragraphs": [
+    "iOk 20k 3uk40k",
+    "HIGH_FREQUENCY_section Mode PEAKING. Cut/boost: 415 dB FREQUENCY: 1.6 & 25 kHz. Q: 2. Q0Hz"
+   ]
+  },
+  {
+   "heading": "MQHZ",
+   "paragraphs": [
+    "106 20k Jol40k"
+   ]
+  }
+ ]
+}

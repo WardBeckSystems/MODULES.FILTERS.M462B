@@ -1,0 +1,231 @@
+{
+ "module": "M462B",
+ "title": "M4 62B EQUALIZER MODULE",
+ "source": {
+  "file": "MANUALS/1974 - M462B - EQ Module.pdf",
+  "page": 4
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "A ein",
+   "key": "a_ein",
+   "text": "Untt y."
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": ". 0.25 dB from 20 Hz t o 20 kHz (al l equalizing controls In FLAT position).",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "(20 Hz t o 20 kHz) -80 dBm.",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": -80,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% THD from 20 Hz to 20 kHz at.Z 8 dBm output or less. Less than 0.1% a t 1 kHz a t +Z8 dBm output.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms maximum. balanced /un balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30 k ohms ! l O%, balanced."
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 to +8 dBm nominal. +30 dBm maximum.",
+   "quantities": [
+    {
+     "from": -10,
+     "to": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms.",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms mini mum, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-10 t o +8 dBm nominal. +30 dBm maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number terminal s of input and out put are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "t Z5 volts dc, 100 mA maximum.",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "volts dc"
+    },
+    {
+     "value": 100,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "o t o 60 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.6\" w1de X 7\" high X 6.5\" deep. (41 mm X 176 mm X 165 mm)",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 176,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1976 - M462B - EQ Module.pdf",
+   "page": 4
+  },
+  {
+   "file": "MANUALS/19xx - M462B - DOC - WBS sales 14.jpg",
+   "page": 1
+  }
+ ]
+}
