@@ -1,5 +1,5 @@
 # 1976 - M462B - Equalizer Module Functional.pdf
-Wiki page: [M462B](../../../../PAGES/M462B.md)
+Wiki page: [M462B](../)
 
 
 - **Year:** 1976 (found in this file: "DATE oct 76")

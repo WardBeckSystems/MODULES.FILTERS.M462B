@@ -1,5 +1,5 @@
 # 1974 - M462B - 462-02-003 - EQUALIZER MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M462B](../../../../PAGES/M462B.md)
+Wiki page: [M462B](../)
 
 
 - **Year:** 1974 (found in this file: "DATE SEP 74")

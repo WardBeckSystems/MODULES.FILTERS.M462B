@@ -1,5 +1,5 @@
 # 1974 - M462B - P38 - EQ Filer Schematic.jpg
-Wiki page: [M462B](../../../../PAGES/M462B.md)
+Wiki page: [M462B](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # M462B - P34 - Component Layout.jpg
-Wiki page: [M462B](../../../../PAGES/M462B.md)
+Wiki page: [M462B](../)
 
 
 - **Year:** unknown (title block (read by eye))
