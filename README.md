@@ -4,13 +4,13 @@ Ward-Beck Systems M462B, 1974|7. Wiki page: [M462B on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 277 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 26 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 3 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 38 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 276 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 25 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 76 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -105,8 +105,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVS0wd2NTWUxOcGc/view?resourcekey=0-mW8uxUiiFhHN_ecwPGQEZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVS0wd2NTWUxOcGc&resourcekey=0-mW8uxUiiFhHN_ecwPGQEZA" width="240" alt="1974 - M462B - P39 - EQ Filter Layout.jpg"></a><br><sub>1974|7 · P39 - EQ Filter Layout · <a href="SCHEMATICS/1974%20-%20M462B%20-%20P39%20-%20EQ%20Filter%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1px2RB2EpB9rkDYjie324O0Zj1QUMZyUW/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1px2RB2EpB9rkDYjie324O0Zj1QUMZyUW" width="240" alt="1976 - M462B - Equalizer Module Functional.pdf"></a><br><sub>1976|9 · Equalizer Module Functional</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M462B - P34 - Component Layout.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -114,8 +112,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1974 - M462B - P35 - Pin Out.jpg"></a><br><sub>1974|7 · P35 - Pin Out · <a href="PINOUTS/1974%20-%20M462B%20-%20P35%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M462B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -180,12 +176,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [2021 - M462B - Final (APK Eagle, converted)](KICAD/2021%20-%20M462B%20-%20Final%20(APK%20Eagle%2C%20converted))
 - [2021 - M466 and M462B - Output Amplifier (APK Eagle, converted)](KICAD/2021%20-%20M466%20and%20M462B%20-%20Output%20Amplifier%20(APK%20Eagle%2C%20converted))
 - [M462B.kicad_sym](KICAD/M462B.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
